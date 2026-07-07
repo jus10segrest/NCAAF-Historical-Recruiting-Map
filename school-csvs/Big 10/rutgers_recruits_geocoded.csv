@@ -1,0 +1,690 @@
+Class Year,Type,Name,Position,Height,Weight,Transfer Rating,HS Rating,Transfer Stars,HS Stars,High School,Hometown City,Hometown State,Previous School,Status,Profile URL,location,lat,lon
+1999,Recruit,Jarred Friday,OLB,6-4,215,,,,0,Canarias Basketball Academy,Burnaby,BC,,Signed,https://247sports.com/Player/jarred-friday-73396/,"Burnaby, BC",49.2433804,-122.972545
+1999,Recruit,Brian Duffy,OT,6-5,300,,,,0,Brick Township Memorial,Brick,NJ,,Signed,https://247sports.com/Player/brian-duffy-73360/,"Brick, NJ",40.0707244,-74.1280562
+1999,Recruit,Antoine Lovelace,WR,6-1,205,,,,0,Neshaminy,Langhorne,PA,,Signed,https://247sports.com/Player/antoine-lovelace-73362/,"Langhorne, PA",40.1761812,-74.9202481
+1999,Recruit,Jason Malakoski,WDE,6-4,260,,,,0,Mount Carmel,Chicago,IL,,Signed,https://247sports.com/Player/jason-malakoski-73364/,"Chicago, IL",41.8755616,-87.6244212
+1999,Recruit,Raheem Orr,OLB,6-4,225,,,,0,Elizabeth,Elizabeth,NJ,,Signed,https://247sports.com/Player/raheem-orr-73366/,"Elizabeth, NJ",40.6639916,-74.2107006
+1999,Recruit,Shane Smith,OLB,6-3,225,,,,0,Teaneck,Teaneck,NJ,,Signed,https://247sports.com/Player/shane-smith-73367/,"Teaneck, NJ",40.8860164,-74.0072568
+1999,Recruit,Ken Whiteside,OLB,6-3,210,,,,0,Dwight Morrow,Englewood,NJ,,Signed,https://247sports.com/Player/ken-whiteside-73371/,"Englewood, NJ",40.8929329,-73.9726508
+1999,Recruit,Nate Colon,RB,5-10,190,,,,0,Granville,Granville,OH,,Signed,https://247sports.com/Player/nate-colon-73374/,"Granville, OH",40.0681192,-82.5196037
+1999,Recruit,Brandon Haw,S,6-0,165,,,,0,Riverdale Baptist,Upper Marlboro,MD,,Signed,https://247sports.com/Player/brandon-haw-73379/,"Upper Marlboro, MD",38.8162451,-76.751708
+1999,Recruit,Nate Leonard,S,6-1,205,,,,0,Gouverneur Junior-senior,Gouverneur,NY,,Signed,https://247sports.com/Player/nate-leonard-73383/,"Gouverneur, NY",44.3366669,-75.46309
+1999,Recruit,Brian Brunson,ILB,6-0,190,,,,0,First Coast,Jacksonville,FL,,Signed,https://247sports.com/Player/brian-brunson-73387/,"Jacksonville, FL",30.3262247,-81.6579179
+1999,Recruit,Ryshaun Conover,WR,6-3,195,,,,0,Lakewood,Lakewood,NJ,,Signed,https://247sports.com/Player/ryshaun-conover-73358/,"Lakewood, NJ",40.0940995,-74.2149889
+1999,Recruit,Mitch Davis,RB,6-1,215,,,,0,Highland Park,Highland Park,NJ,,Signed,https://247sports.com/Player/mitch-davis-73392/,"Highland Park, NJ",40.4997407,-74.4262011
+1999,Recruit,Krzysztof Kaczorowski,OT,6-6,305,,,,0,Hillside,Hillside,NJ,,Signed,https://247sports.com/Player/krzysztof-kaczorowski-73402/,"Hillside, NJ",40.701213,-74.2301459
+1999,Recruit,Aaron Martin,WR,6-4,195,,,,0,Bergen Catholic,Oradell,NJ,,Signed,https://247sports.com/Player/aaron-martin-73407/,"Oradell, NJ",40.9543943,-74.0308504
+1999,Recruit,Marty Pyszczymuka,WDE,6-3,250,,,,0,Blair Academy,Blairstown,NJ,,Signed,https://247sports.com/Player/marty-pyszczymuka-73413/,"Blairstown, NJ",40.9831598,-74.9602972
+1999,Recruit,Chad Schwenk,PRO,6-2,190,,,,0,Whitehall,Whitehall,PA,,Signed,https://247sports.com/Player/chad-schwenk-73414/,"Whitehall, PA",40.6574088,-75.5074517
+1999,Recruit,TC Everett,WR,5-11,185,,,,0,Foothill College,Los Altos,CA,,Signed,https://247sports.com/Player/tc-everett-73416/,"Los Altos, CA",37.3790629,-122.116578
+1999,Recruit,Errol Johnson,WR,6-2,200,,,,0,Foothill College,Los Altos,CA,,Signed,https://247sports.com/Player/errol-johnson-73419/,"Los Altos, CA",37.3790629,-122.116578
+1999,Recruit,Shahib White,S,6-0,190,,,,0,Lackawanna College,Scranton,PA,,Signed,https://247sports.com/Player/shahib-white-73423/,"Scranton, PA",41.4086874,-75.6621294
+1999,Recruit,Doug Casper,S,6-0,185,,,,0,Fork Union Military Academy,Fork Union,VA,,Signed,https://247sports.com/Player/doug-casper-73427/,"Fork Union, VA",37.7632986,-78.2626198
+1999,Recruit,Greg Graves,TE,6-4,225,,,,0,Archbishop Carroll,Washington,DC,,Signed,https://247sports.com/Player/greg-graves-73433/,"Washington, DC",38.8950982,-77.0363849
+1999,Recruit,Rich McManis,OT,6-5,320,,,,0,Triton,Runnemede,NJ,,Signed,https://247sports.com/Player/rich-mcmanis-73437/,"Runnemede, NJ",39.8523358,-75.0679498
+2000,Recruit,Brian Hohmann,ATH,6-3,205,,,,0,Bergenfield,Bergenfield,NJ,,Signed,https://247sports.com/Player/brian-hohmann-72067/,"Bergenfield, NJ",40.9275987,-73.9973608
+2000,Recruit,Nathan Jones,ATH,5-11,165,,,,0,Scotch Plains Fanwood,Scotch Plains,NJ,,Signed,https://247sports.com/Player/nathan-jones-72023/,"Scotch Plains, NJ",40.65538,-74.3898732
+2000,Recruit,Jeff Olsen,TE,6-6,250,,,,0,Bernards,Bernardsville,NJ,,Signed,https://247sports.com/Player/jeff-olsen-72025/,"Bernardsville, NJ",40.7186805,-74.5692273
+2000,Recruit,Jereme Baker,CB,5-11,185,,,,0,The Bolles School,Jacksonville,FL,,Signed,https://247sports.com/Player/jereme-baker-72029/,"Jacksonville, FL",30.3262247,-81.6579179
+2000,Recruit,John Comiskey,SDE,6-4,270,,,,0,Chatham Hall,Chatham,VA,,Signed,https://247sports.com/Player/john-comiskey-72033/,"Chatham, VA",36.8263032,-79.3984592
+2000,Recruit,Rob Dinsmore,OT,6-5,275,,,,0,Scotch Plains Fanwood,Scotch Plains,NJ,,Signed,https://247sports.com/Player/rob-dinsmore-72040/,"Scotch Plains, NJ",40.65538,-74.3898732
+2000,Recruit,Anthony Frazier,CB,5-11,205,,,,0,The Pennington School,Pennington,NJ,,Signed,https://247sports.com/Player/anthony-frazier-72043/,"Pennington, NJ",40.3281213,-74.7909992
+2000,Recruit,Jacob Garner,OT,6-6,276,,,,0,Carthage,Carthage,NY,,Signed,https://247sports.com/Player/jacob-garner-72047/,"Carthage, NY",43.9781668,-75.6097745
+2000,Recruit,Bill Hambrecht,OLB,6-2,215,,,,0,St. Augustine Prep,Richland,NJ,,Signed,https://247sports.com/Player/bill-hambrecht-72065/,"Richland, NJ",39.495841,-74.8900885
+2000,Recruit,Chris Dapolito,PRO,6-3,215,,,,0,Matawan Regional,Matawan,NJ,,Signed,https://247sports.com/Player/chris-dapolito-72020/,"Matawan, NJ",40.41483,-74.2295891
+2000,Recruit,Benson Hawkins,WDE,6-3,302,,,,0,The Bolles School,Jacksonville,FL,,Signed,https://247sports.com/Player/benson-hawkins-72066/,"Jacksonville, FL",30.3262247,-81.6579179
+2000,Recruit,Ron Jenerette,WDE,6-3,240,,,,0,Scotch Plains Fanwood,Scotch Plains,NJ,,Signed,https://247sports.com/Player/ron-jenerette-72068/,"Scotch Plains, NJ",40.65538,-74.3898732
+2000,Recruit,Troy Marion,RB,6-1,215,,,,0,High Point Regional,Sussex,NJ,,Signed,https://247sports.com/Player/troy-marion-72069/,"Sussex, NJ",41.133372,-74.6930393
+2000,Recruit,Mike Williamson,OT,6-5,290,,,,0,Barnegat,Barnegat,NJ,,Signed,https://247sports.com/Player/mike-williamson-72070/,"Barnegat, NJ",39.7557459,-74.2207395
+2000,Recruit,Dan Woodard,OLB,6-2,220,,,,0,Cornell,Coraopolis,PA,,Signed,https://247sports.com/Player/dan-woodard-72072/,"Coraopolis, PA",40.5175351,-80.1643232
+2000,Recruit,Ravon Anderson,RB,5-1,195,,,,0,Nassau C.C.,Garden City,NY,,Signed,https://247sports.com/Player/ravon-anderson-72075/,"Garden City, NY",40.7266477,-73.6343052
+2000,Recruit,Vaughn Calhoun,RB,6-0,190,,,,0,Monterey Peninsula College,Monterey,CA,,Signed,https://247sports.com/Player/vaughn-calhoun-72082/,"Monterey, CA",36.2231079,-121.387742
+2000,Recruit,Torrance Heggie,SDE,6-5,220,,,,0,Ventura College,Ventura,CA,,Signed,https://247sports.com/Player/torrance-heggie-72085/,"Ventura, CA",34.4458248,-119.0779359
+2000,Recruit,Travis Mills,OG,6-3,311,,,,0,Garden City C.C.,Garden City,KS,,Signed,https://247sports.com/Player/travis-mills-72088/,"Garden City, KS",37.9716898,-100.8726618
+2001,Recruit,Davon Clark,SDE,6-4,285,,,,0,Paterson Catholic,Paterson,NJ,,Signed,https://247sports.com/Player/davon-clark-69764/,"Paterson, NJ",40.9167654,-74.171811
+2001,Recruit,Rikki Cook,RB,6-1,235,,,,0,Montclair,Montclair,NJ,,Signed,https://247sports.com/Player/rikki-cook-69767/,"Montclair, NJ",40.8164458,-74.2210643
+2001,Recruit,Ryan Cubit,PRO,6-2,195,,,,0,Hickman,Columbia,MO,,Signed,https://247sports.com/Player/ryan-cubit-69770/,"Columbia, MO",38.951883,-92.3337366
+2001,Recruit,Cedric Brown,OLB,6-2,240,,,,0,Hackensack,Hackensack,NJ,,Signed,https://247sports.com/Player/cedric-brown-69774/,"Hackensack, NJ",40.8870781,-74.0410667
+2001,Recruit,Bran Cunningham,OLB,6-1,220,,,,0,Hudson Catholic,Jersey City,NJ,,Signed,https://247sports.com/Player/bran-cunningham-69775/,"Jersey City, NJ",40.7215682,-74.047455
+2001,Recruit,Eddie Grimes,DT,5-11,175,,,,0,American,Hialeah,FL,,Signed,https://247sports.com/Player/eddie-grimes-69777/,"Hialeah, FL",25.8267775,-80.2814009
+2001,Recruit,Jarvis Johnson,CB,6-0,190,,,,0,Homestead,Homestead,FL,,Signed,https://247sports.com/Player/jarvis-johnson-69780/,"Homestead, FL",25.4718946,-80.4759905
+2001,Recruit,Marcus Jones,RB,6-1,190,,,,0,St. Augustine,St. Augustine,FL,,Signed,https://247sports.com/Player/marcus-jones-69783/,"St. Augustine, FL",29.8946952,-81.3145395
+2001,Recruit,Chris Loomis,TE,6-5,212,,,,0,Maple Shade,Maple Shade,NJ,,Signed,https://247sports.com/Player/chris-loomis-69786/,"Maple Shade, NJ",39.9526127,-74.9923915
+2001,Recruit,Piana Lukabu,ATH,6-3,215,,,,0,Colonia,Colonia,NJ,,Signed,https://247sports.com/Player/piana-lukabu-69791/,"Colonia, NJ",40.5917149,-74.3142458
+2001,Recruit,Sameeh McDonald,OT,6-5,295,,,,0,West Side,Newark,NJ,,Signed,https://247sports.com/Player/sameeh-mcdonald-69794/,"Newark, NJ",40.735657,-74.1723667
+2001,Recruit,Ryan Neill,OLB,6-3,220,,,,0,Wayne Hills,Wayne,NJ,,Signed,https://247sports.com/Player/ryan-neill-69799/,"Wayne, NJ",40.9491723,-74.2376802
+2001,Recruit,Mark Segaloff,OT,6-5,290,,,,0,Toms River North,Toms River,NJ,,Signed,https://247sports.com/Player/mark-segaloff-69800/,"Toms River, NJ",39.9528389,-74.196741
+2001,Recruit,Bryan Wilson,WR,5-9,185,,,,0,Hackensack,Hackensack,NJ,,Signed,https://247sports.com/Player/bryan-wilson-69802/,"Hackensack, NJ",40.8870781,-74.0410667
+2001,Recruit,Jerry Andre,WR,6-1,175,,,,0,Hialeah,Hialeah,FL,,Signed,https://247sports.com/Player/jerry-andre-69804/,"Hialeah, FL",25.8267775,-80.2814009
+2001,Recruit,Mike Clancy,OG,6-4,285,,,,0,Toms River North,Toms River,NJ,,Signed,https://247sports.com/Player/mike-clancy-69805/,"Toms River, NJ",39.9528389,-74.196741
+2001,Recruit,Ishmael Medley,ILB,5-11,230,,,,0,Elizabeth,Elizabeth,NJ,,Signed,https://247sports.com/Player/ishmael-medley-69807/,"Elizabeth, NJ",40.6639916,-74.2107006
+2001,Recruit,Tres Moses,ILB,5-10,180,,,,0,Atlantic,Delray Beach,FL,,Signed,https://247sports.com/Player/tres-moses-69809/,"Delray Beach, FL",26.4614625,-80.0728201
+2001,Recruit,Alfred Peterson,WDE,6-3,245,,,,0,Miami Carol City,Opa Locka,FL,,Signed,https://247sports.com/Player/alfred-peterson-69811/,"Opa Locka, FL",25.9023168,-80.2503271
+2001,Recruit,Clarence Pittman,RB,5-10,185,,,,0,Miami Northwestern,Miami,FL,,Signed,https://247sports.com/Player/clarence-pittman-69814/,"Miami, FL",25.7741566,-80.1935973
+2002,Recruit,D'Andre Asberry,CB,5-10,180,,,,0,Miami Northwestern,Miami,FL,,Enrolled,https://247sports.com/Player/dandre-asberry-50545/,"Miami, FL",25.7741566,-80.1935973
+2002,Recruit,Val Barnaby,ILB,6-4,240,,,,0,Franklin Township,Somerset,NJ,,Enrolled,https://247sports.com/Player/val-barnaby-50548/,"Somerset, NJ",40.5675084,-74.6189556
+2002,Recruit,William Beckford,OLB,6-1,215,,,,0,Glades Central,Belle Glade,FL,,Enrolled,https://247sports.com/Player/william-beckford-50551/,"Belle Glade, FL",26.6845104,-80.6675577
+2002,Recruit,Randy Boxilll,OT,6-3,318,,,,0,Santaluces Community,Lantana,FL,,Enrolled,https://247sports.com/Player/randy-boxilll-50554/,"Lantana, FL",26.5865308,-80.052166
+2002,Recruit,Jamar Brittingham,RB,6-1,190,,,,0,Neshaminy,Langhorne,PA,,Enrolled,https://247sports.com/Player/jamar-brittingham-50555/,"Langhorne, PA",40.1761812,-74.9202481
+2002,Recruit,Terry Bynes,OLB,6-2,200,,,,0,Dillard,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/terry-bynes-50558/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2002,Recruit,Anthony Cali,PRO,6-4,205,,,,0,Burlington Township,Burlington,NJ,,Enrolled,https://247sports.com/Player/anthony-cali-50560/,"Burlington, NJ",39.9325409,-74.7226665
+2002,Recruit,Bryan Durango,CB,5-11,180,,,,0,Memorial,West New York,NJ,,Enrolled,https://247sports.com/Player/bryan-durango-50562/,"West New York, NJ",40.7856117,-74.0093129
+2002,Recruit,Markis Facyson,APB,5-9,173,,,,0,Dillard,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/markis-facyson-50565/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2002,Recruit,Ron Green,OT,6-5,315,,,,0,Dixie,St. George,UT,,Enrolled,https://247sports.com/Player/ron-green-50569/,"St. George, UT",37.1098772,-113.5832063
+2002,Recruit,Darren Halliburton,ATH,6-4,190,,,,0,Suncoast,Riviera Beach,FL,,Enrolled,https://247sports.com/Player/darren-halliburton-50570/,"Riviera Beach, FL",26.784343,-80.0650293
+2002,Recruit,Clark Harris,TE,6-5,225,,,,0,Southern Reg,Manahawkin,NJ,,Enrolled,https://247sports.com/Player/clark-harris-50574/,"Manahawkin, NJ",39.690518,-74.2486427
+2002,Recruit,Ryan Hart,PRO,6-2,185,,,,0,Cardinal Gibbons,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/ryan-hart-50575/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2003,Recruit,Charles Timbers,CB,5-10,173,,,,0,Ocean Township,Oakhurst,NJ,,Enrolled,https://247sports.com/Player/charles-timbers-48031/,"Oakhurst, NJ",40.2613085,-74.0266552
+2003,Recruit,Keon Braswell,S,6-0,180,,,,0,Miami Norland,Miami,FL,,Enrolled,https://247sports.com/Player/keon-braswell-47931/,"Miami, FL",25.7741566,-80.1935973
+2003,Recruit,Jamar Brittingham,RB,6-1,190,,,,0,The Kiski School,Saltsburg,PA,,Enrolled,https://247sports.com/Player/jamar-brittingham-47936/,"Saltsburg, PA",40.4864553,-79.4514299
+2003,Recruit,Marcus Daniels,WR,6-2,190,,,,0,Miami Central,Miami,FL,,Enrolled,https://247sports.com/Player/marcus-daniels-47944/,"Miami, FL",25.7741566,-80.1935973
+2003,Recruit,Clint Dato,OT,6-5,332,,,,0,Cerritos College,Norwalk,CA,,Enrolled,https://247sports.com/Player/clint-dato-47953/,"Norwalk, CA",33.9092802,-118.0849169
+2003,Recruit,Donnie Diaz,WR,6-6,200,,,,0,Itasca C.c.,Grand Rapids,MN,,Enrolled,https://247sports.com/Player/donnie-diaz-47959/,"Grand Rapids, MN",47.237166,-93.530214
+2003,Recruit,Mike Fladell,OT,6-8,350,,,,0,John Adams,Ozone Park,NY,,Enrolled,https://247sports.com/Player/mike-fladell-47966/,"Ozone Park, NY",40.67677,-73.8437461
+2003,Recruit,Eric Foster,ILB,6-5,235,,,,0,Homestead,Homestead,FL,,Enrolled,https://247sports.com/Player/eric-foster-47973/,"Homestead, FL",25.4718946,-80.4759905
+2003,Recruit,Willie Foster,WR,5-10,170,,,,0,Miami Central,Miami,FL,,Enrolled,https://247sports.com/Player/willie-foster-47984/,"Miami, FL",25.7741566,-80.1935973
+2003,Recruit,Quintero Frierson,ILB,6-0,215,,,,0,Coral Gables,Miami,FL,,Enrolled,https://247sports.com/Player/quintero-frierson-47986/,"Miami, FL",25.7741566,-80.1935973
+2003,Recruit,Ken Gillespie,OLB,6-0,205,,,,0,Long Branch,Long Branch,NJ,,Enrolled,https://247sports.com/Player/ken-gillespie-47988/,"Long Branch, NJ",40.3042778,-73.9923596
+2003,Recruit,Justice Hairston,RB,6-0,205,,,,0,Milford Academy,New Berlin,NY,,Enrolled,https://247sports.com/Player/justice-hairston-48001/,"New Berlin, NY",42.6239023,-75.3321363
+2003,Recruit,Sam Johnson,TE,6-4,235,,,,0,Bergen Catholic,Oradell,NJ,,Enrolled,https://247sports.com/Player/sam-johnson-48007/,"Oradell, NJ",40.9543943,-74.0308504
+2003,Recruit,Orlando Kane,APB,5-9,170,,,,0,The Lawrenceville School,Lawrenceville,NJ,,Enrolled,https://247sports.com/Player/orlando-kane-48008/,"Lawrenceville, NJ",40.3009876,-74.7373728
+2003,Recruit,Brad Listorti,TE,6-2,224,,,,0,Notre Dame,West Haven,CT,,Enrolled,https://247sports.com/Player/brad-listorti-48009/,"West Haven, CT",41.2706527,-72.9470471
+2003,Recruit,Marcus Mitchell,S,6-1,210,,,,0,Milford Academy,New Berlin,NY,,Enrolled,https://247sports.com/Player/marcus-mitchell-48010/,"New Berlin, NY",42.6239023,-75.3321363
+2003,Recruit,Joe Porter,CB,5-10,175,,,,0,Franklin Township,Somerset,NJ,,Enrolled,https://247sports.com/Player/joe-porter-48013/,"Somerset, NJ",40.5675084,-74.6189556
+2003,Recruit,Rashawn Ricks,ILB,6-2,234,,,,0,Paterson Catholic,Paterson,NJ,,Enrolled,https://247sports.com/Player/rashawn-ricks-48015/,"Paterson, NJ",40.9167654,-74.171811
+2003,Recruit,Derek Roberson,ATH,5-10,175,,,,0,Miami Norland,Miami,FL,,Enrolled,https://247sports.com/Player/derek-roberson-48017/,"Miami, FL",25.7741566,-80.1935973
+2003,Recruit,Nathaniel Robinson,DT,6-4,319,,,,0,Irvington,Irvington,NJ,,Enrolled,https://247sports.com/Player/nathaniel-robinson-48018/,"Irvington, NJ",40.7264091,-74.2289491
+2003,Recruit,Terrance Shawell,DUAL,6-4,190,,,,0,Pottstown,Pottstown,PA,,Enrolled,https://247sports.com/Player/terrance-shawell-48019/,"Pottstown, PA",40.2452976,-75.6496424
+2003,Recruit,Pedro Sosa,OT,6-4,266,,,,0,Union City,Union City,NJ,,Enrolled,https://247sports.com/Player/pedro-sosa-48022/,"Union City, NJ",40.7795455,-74.0237512
+2003,Recruit,Devraun Thompson,OLB,5-11,209,,,,0,Piscataway,Piscataway,NJ,,Enrolled,https://247sports.com/Player/devraun-thompson-48026/,"Piscataway, NJ",40.5464326,-74.4660542
+2003,Recruit,David Harley,DT,6-2,295,,,,0,Pasadena,Pasadena,CA,,Enrolled,https://247sports.com/Player/david-harley-48004/,"Pasadena, CA",34.1476507,-118.144155
+2003,Recruit,Nate Robinson,DT,6-4,320,,,,0,Irvington,Irvington,NJ,,Signed,https://247sports.com/Player/nate-robinson-26353/,"Irvington, NJ",40.7264091,-74.2289491
+2004,Recruit,Robert Baham,S,6-0,185,,,,0,Jefferson,Tampa,FL,,Enrolled,https://247sports.com/Player/robert-baham-45452/,"Tampa, FL",27.9449854,-82.4583107
+2004,Recruit,Shukree Barfield,DT,6-4,290,,,,0,Camden,Camden,NJ,,Enrolled,https://247sports.com/Player/shukree-barfield-45136/,"Camden, NJ",39.9448402,-75.1198911
+2004,Recruit,Jean Beljour,RB,6-0,200,,,,0,Hackensack,Hackensack,NJ,,Enrolled,https://247sports.com/Player/jean-beljour-45143/,"Hackensack, NJ",40.8870781,-74.0410667
+2004,Recruit,Renold Fenelus,DT,6-5,265,,,,0,Fort Lauderdale,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/renold-fenelus-45146/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2004,Recruit,Jon Fields,OG,6-3,270,,,,0,Matawan Regional,Matawan,NJ,,Enrolled,https://247sports.com/Player/jon-fields-45148/,"Matawan, NJ",40.41483,-74.2295891
+2004,Recruit,Mike Gilmartin,OT,6-6,270,,,,0,Estero,Estero,FL,,Enrolled,https://247sports.com/Player/mike-gilmartin-45151/,"Estero, FL",26.4381474,-81.8067537
+2004,Recruit,Ron Girault,CB,5-11,195,,,,0,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/ron-girault-45154/,"Montvale, NJ",41.0407563,-74.0288633
+2004,Recruit,Corey Hyman,OG,6-4,291,,,,0,St. Thomas Aquinas,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/corey-hyman-45157/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2004,Recruit,Jeremy Ito,K,5-11,180,,,,0,Redlands,Redlands,CA,,Enrolled,https://247sports.com/Player/jeremy-ito-45161/,"Redlands, CA",34.0550328,-117.1827445
+2004,Recruit,Chenry Lewis,OLB,6-3,205,,,,0,Paterson Catholic,Paterson,NJ,,Enrolled,https://247sports.com/Player/chenry-lewis-45173/,"Paterson, NJ",40.9167654,-74.171811
+2004,Recruit,Bruce McKever,CB,6-3,180,,,,0,Glades Central,Belle Glade,FL,,Enrolled,https://247sports.com/Player/bruce-mckever-45194/,"Belle Glade, FL",26.6845104,-80.6675577
+2004,Recruit,Anthony Miller,ATH,6-0,165,,,,0,J P Stevens,Edison,NJ,,Enrolled,https://247sports.com/Player/anthony-miller-45201/,"Edison, NJ",40.5005351,-74.3983939
+2004,Recruit,Darren Salinardi,DT,6-4,285,,,,0,Hudson Catholic,Jersey City,NJ,,Enrolled,https://247sports.com/Player/darren-salinardi-45205/,"Jersey City, NJ",40.7215682,-74.047455
+2004,Recruit,Joe Salinardi,DT,6-4,285,,,,0,Hudson Catholic,Jersey City,NJ,,Enrolled,https://247sports.com/Player/joe-salinardi-45210/,"Jersey City, NJ",40.7215682,-74.047455
+2004,Recruit,Cameron Stephenson,OT,6-5,310,,,,0,Los Angeles Harbor College,Wilmington,CA,,Enrolled,https://247sports.com/Player/cameron-stephenson-45216/,"Wilmington, CA",33.7800164,-118.262509
+2004,Recruit,Keith Taylor,WR,6-4,177,,,,0,Elizabeth,Elizabeth,NJ,,Enrolled,https://247sports.com/Player/keith-taylor-45219/,"Elizabeth, NJ",40.6639916,-74.2107006
+2004,Recruit,Mike Teel,PRO,6-4,208,,,,0,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/mike-teel-45221/,"Ramsey, NJ",41.0573188,-74.1409771
+2004,Recruit,Mike Ziarnowski,OLB,6-2,220,,,,0,Immaculata,Somerville,NJ,,Enrolled,https://247sports.com/Player/mike-ziarnowski-45226/,"Somerville, NJ",40.5742696,-74.60988
+2004,Recruit,Jeremy Zuttah,OG,6-4,285,,,,0,J P Stevens,Edison,NJ,,Enrolled,https://247sports.com/Player/jeremy-zuttah-45230/,"Edison, NJ",40.5005351,-74.3983939
+2004,Recruit,Chazz Lynn,CB,5-10,170,,,,0,Wayne Hills,Wayne,NJ,,Enrolled,https://247sports.com/Player/chazz-lynn-45184/,"Wayne, NJ",40.9491723,-74.2376802
+2004,Recruit,Dwayne Jones,FB,6-1,233,,,,0,Lakewood,Lakewood,NJ,,Commit 1/17/2004,https://247sports.com/Player/dwayne-jones-26279/,"Lakewood, NJ",40.0940995,-74.2149889
+2005,Recruit,Ryan Blaszczyk,OT,6-4,301,,,,0,Shawnee,Medford,NJ,,Enrolled,https://247sports.com/Player/ryan-blaszczyk-43422/,"Medford, NJ",39.9009472,-74.8234961
+2005,Recruit,Dennis Campbell,CB,5-9,170,,,,0,Plantation,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/dennis-campbell-43513/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2005,Recruit,Chris Dirksz,SDE,6-1,260,,,,0,Dr. Michael M. Krop,Miami,FL,,Enrolled,https://247sports.com/Player/chris-dirksz-43516/,"Miami, FL",25.7741566,-80.1935973
+2005,Recruit,Kevin Haslam,OT,6-7,265,,,,0,Mahwah,Mahwah,NJ,,Enrolled,https://247sports.com/Player/kevin-haslam-43525/,"Mahwah, NJ",41.0887072,-74.1437552
+2005,Recruit,Glen Lee,CB,6-2,195,,,,0,New Rochelle,New Rochelle,NY,,Enrolled,https://247sports.com/Player/glen-lee-43544/,"New Rochelle, NY",40.9115386,-73.7826363
+2005,Recruit,Jabulani Lovelace,DUAL,6-2,190,,,,0,Tenafly,Tenafly,NJ,,Enrolled,https://247sports.com/Player/jabulani-lovelace-43555/,"Tenafly, NJ",40.9253766,-73.9629154
+2005,Recruit,Kevin Malast,OLB,6-3,195,,,,0,Manchester Reg H,Haledon,NJ,,Enrolled,https://247sports.com/Player/kevin-malast-43563/,"Haledon, NJ",40.935654,-74.186256
+2005,Recruit,Dave McClain,OG,6-4,335,,,,0,Central Bucks East,Doylestown,PA,,Enrolled,https://247sports.com/Player/dave-mcclain-43570/,"Doylestown, PA",40.3100446,-75.1304588
+2005,Recruit,Chris McClover,WR,6-4,171,,,,0,Dillard,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/chris-mcclover-43579/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2005,Recruit,Devin McCourty,S,5-11,165,,,,0,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/devin-mccourty-43584/,"Montvale, NJ",41.0407563,-74.0288633
+2005,Recruit,Damaso Munoz,OLB,5-11,200,,,,0,Miami Southridge,Miami,FL,,Enrolled,https://247sports.com/Player/damaso-munoz-43609/,"Miami, FL",25.7741566,-80.1935973
+2005,Recruit,Nate Nurse,OT,6-3,262,,,,0,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/nate-nurse-43617/,"Ramsey, NJ",41.0573188,-74.1409771
+2005,Recruit,Chris Quaye,ILB,6-0,230,,,,0,Timber Creek,Sicklerville,NJ,,Enrolled,https://247sports.com/Player/chris-quaye-43628/,"Sicklerville, NJ",39.7173375,-74.9693329
+2005,Recruit,Ray Rice,APB,5-9,188,,,,0,New Rochelle,New Rochelle,NY,,Enrolled,https://247sports.com/Player/ray-rice-43633/,"New Rochelle, NY",40.9115386,-73.7826363
+2005,Recruit,Davon Smart,APB,5-10,183,,,,0,Hackensack,Hackensack,NJ,,Enrolled,https://247sports.com/Player/davon-smart-43645/,"Hackensack, NJ",40.8870781,-74.0410667
+2005,Recruit,Darnell Stapleton,OG,6-3,305,,,,0,Hudson Valley C.C.,Troy,NY,,Enrolled,https://247sports.com/Player/darnell-stapleton-43651/,"Troy, NY",42.7284117,-73.6917878
+2005,Recruit,Vantrise Studivant,WDE,6-3,255,,,,0,Suncoast,Riviera Beach,FL,,Enrolled,https://247sports.com/Player/vantrise-studivant-43667/,"Riviera Beach, FL",26.784343,-80.0650293
+2005,Recruit,Peter Tverdov,OLB,6-3,207,,,,0,Union,Union,NJ,,Enrolled,https://247sports.com/Player/peter-tverdov-43675/,"Union, NJ",40.6652251,-74.3045277
+2005,Recruit,Gary Watts,WDE,6-3,215,,,,0,Miami Norland,Miami,FL,,Enrolled,https://247sports.com/Player/gary-watts-43686/,"Miami, FL",25.7741566,-80.1935973
+2005,Recruit,Derek Benson,ATH,6-1,200,,,,0,Hun School,Princeton,NJ,,Enrolled,https://247sports.com/Player/derek-benson-43692/,"Princeton, NJ",40.3496953,-74.6597376
+2006,Recruit,Matt Hardison,ILB,6-3,250,,,,0,Freehold Township,Freehold,NJ,,Enrolled,https://247sports.com/Player/matt-hardison-39548/,"Freehold, NJ",40.2601096,-74.2737573
+2006,Recruit,Sorie Bayoh,OLB,6-2,213,,,,0,Gulliver Prep,Miami,FL,,Enrolled,https://247sports.com/Player/sorie-bayoh-39512/,"Miami, FL",25.7741566,-80.1935973
+2006,Recruit,Blair Bines,ILB,6-1,230,,,,0,William Floyd,Mastic Beach,NY,,Enrolled,https://247sports.com/Player/blair-bines-39518/,"Mastic Beach, NY",40.7642315,-72.8355343
+2006,Recruit,Tim Brown,ATH,5-7,146,,,,0,Miami Northwestern,Miami,FL,,Enrolled,https://247sports.com/Player/tim-brown-39525/,"Miami, FL",25.7741566,-80.1935973
+2006,Recruit,Jesse Cisco,TE,6-5,230,,,,0,Morristown,Morristown,NJ,,Enrolled,https://247sports.com/Player/jesse-cisco-39527/,"Morristown, NJ",40.7970382,-74.4809868
+2006,Recruit,Jack Corcoran,OLB,6-1,227,,,,0,St. Joseph,Hammonton,NJ,,Enrolled,https://247sports.com/Player/jack-corcoran-39533/,"Hammonton, NJ",39.6366543,-74.8027651
+2006,Recruit,Ryan D'Imperio,ILB,6-2,223,,,,0,Westwood,Township Of Washington,NJ,,Enrolled,https://247sports.com/Player/ryan-dimperio-39539/,"Township Of Washington, NJ",40.9884843,-74.0652437
+2006,Recruit,Shamar Graves,WR,6-3,201,,,,0,Woodbridge,Woodbridge,NJ,,Enrolled,https://247sports.com/Player/shamar-graves-39542/,"Woodbridge, NJ",40.55418,-74.2860008
+2006,Recruit,Julian Hayes,WR,6-1,205,,,,0,Malverne,Malverne,NY,,Enrolled,https://247sports.com/Player/julian-hayes-39554/,"Malverne, NY",40.6789916,-73.6740191
+2006,Recruit,Kevin Holloway,ATH,5-8,153,,,,0,McArthur,Hollywood,FL,,Enrolled,https://247sports.com/Player/kevin-holloway-39557/,"Hollywood, FL",26.0112014,-80.1494901
+2006,Recruit,Tom Lang,PRO,6-3,200,,,,0,Middlesex School,Concord,MA,,Enrolled,https://247sports.com/Player/tom-lang-39568/,"Concord, MA",42.4605189,-71.3488963
+2006,Recruit,Mo Lange,OT,6-6,351,,,,0,Hillsborough,Hillsborough,NJ,,Enrolled,https://247sports.com/Player/mo-lange-39574/,"Hillsborough, NJ",40.5052296,-74.6732941
+2006,Recruit,Antonio Lowery,OLB,6-1,199,,,,0,Miami Columbus,Miami,FL,,Enrolled,https://247sports.com/Player/antonio-lowery-39583/,"Miami, FL",25.7741566,-80.1935973
+2006,Recruit,Jeff Minemyer,TE,6-6,245,,,,0,Bishop Carroll,Ebensburg,PA,,Enrolled,https://247sports.com/Player/jeff-minemyer-39591/,"Ebensburg, PA",40.4852783,-78.7248434
+2006,Recruit,Andres Morales,ILB,6-2,245,,,,0,Liberty,Bethlehem,PA,,Enrolled,https://247sports.com/Player/andres-morales-39599/,"Bethlehem, PA",-1.45056,-48.4682453
+2006,Recruit,Pat Nemorin,OLB,6-2,195,,,,0,Deerfield Beach,Deerfield Beach,FL,,Enrolled,https://247sports.com/Player/pat-nemorin-39604/,"Deerfield Beach, FL",26.318342,-80.0996306
+2006,Recruit,Charlie Noonan,DT,6-2,252,,,,0,Lower Merion,Ardmore,PA,,Enrolled,https://247sports.com/Player/charlie-noonan-39609/,"Ardmore, PA",40.004128,-75.2882893
+2006,Recruit,Chris Paul-Etienne,ATH,6-1,169,,,,0,Miami Edison,Miami,FL,,Enrolled,https://247sports.com/Player/chris-paul-etienne-39613/,"Miami, FL",25.7741566,-80.1935973
+2006,Recruit,Marlon Romulus,OG,6-3,307,,,,0,Floral Park Memorial,Floral Park,NY,,Enrolled,https://247sports.com/Player/marlon-romulus-39619/,"Floral Park, NY",40.7246999,-73.7048024
+2006,Recruit,Markus White,WDE,6-4,225,,,,0,John I. Leonard,Lake Worth,FL,,Enrolled,https://247sports.com/Player/markus-white-39622/,"Lake Worth, FL",26.615891,-80.0691435
+2006,Recruit,Eric Wilson,DT,6-2,295,,,,0,Hibbing,Hibbing,MN,,Enrolled,https://247sports.com/Player/eric-wilson-39638/,"Hibbing, MN",47.427155,-92.937689
+2006,Recruit,Kordell Young,APB,5-8,177,,,,0,West Deptford,Westville,NJ,,Enrolled,https://247sports.com/Player/kordell-young-39647/,"Westville, NJ",39.8700552,-75.1265177
+2006,Recruit,George Johnson,ILB,6-4,220,,,,0,Glassboro,Glassboro,NJ,,Enrolled,https://247sports.com/Player/george-johnson-39652/,"Glassboro, NJ",39.7027677,-75.1119434
+2006,Recruit,Edmond Laryea,RB,5-11,198,,,,0,Tottenville,Staten Island,NY,,Enrolled,https://247sports.com/Player/edmond-laryea-39579/,"Staten Island, NY",40.5834557,-74.1496048
+2006,Recruit,Kenny Britt,WR,6-3,215,,,,0,Bayonne,Bayonne,NJ,,Commit 2/1/2006,https://247sports.com/Player/kenny-britt-6976/,"Bayonne, NJ",40.6687141,-74.1143091
+2007,Recruit,Desmond Wynn,SDE,6-6,245,,,,0,St Mark's,Wilmington,DE,,Enrolled,https://247sports.com/Player/desmond-wynn-53095/,"Wilmington, DE",39.7459468,-75.546589
+2007,Recruit,Manny Abreu,OLB,6-4,230,,,,0,Union City,Union City,NJ,,Enrolled,https://247sports.com/Player/manny-abreu-24622/,"Union City, NJ",40.7795455,-74.0237512
+2007,Recruit,Robinson Alexis,WR,6-0,160,,,,0,West Boca Raton,Boca Raton,FL,,Enrolled,https://247sports.com/Player/robinson-alexis-53041/,"Boca Raton, FL",26.3586885,-80.0830984
+2007,Recruit,Jourdan Brooks,ILB,6-1,247,,,,0,Seneca Valley,Germantown,MD,,Enrolled,https://247sports.com/Player/jourdan-brooks-53053/,"Germantown, MD",39.1712341,-77.2655648
+2007,Recruit,Jameil Farrington,SDE,6-3,235,,,,0,Homestead,Homestead,FL,,Enrolled,https://247sports.com/Player/jameil-farrington-53064/,"Homestead, FL",25.4718946,-80.4759905
+2007,Recruit,Justin Francis,SDE,6-3,247,,,,0,Miramar,Miramar,FL,,Enrolled,https://247sports.com/Player/justin-francis-53068/,"Miramar, FL",25.9873137,-80.2322706
+2007,Recruit,Jonathan Freeny,SDE,6-3,220,,,,0,Coconut Creek,Pompano Beach,FL,,Enrolled,https://247sports.com/Player/jonathan-freeny-53073/,"Pompano Beach, FL",26.2378597,-80.1247667
+2007,Recruit,Al-Majid Hutchins,CB,5-11,180,,,,0,East Orange Campus,East Orange,NJ,,Enrolled,https://247sports.com/Player/al-majid-hutchins-53077/,"East Orange, NJ",40.7642404,-74.215011
+2007,Recruit,Al-Ghaffaar Lane,OLB,6-4,202,,,,0,Paterson Catholic,Paterson,NJ,,Enrolled,https://247sports.com/Player/al-ghaffaar-lane-53079/,"Paterson, NJ",40.9167654,-74.171811
+2007,Recruit,Joe Lefeged,OLB,6-0,190,,,,0,Northwest,Germantown,MD,,Enrolled,https://247sports.com/Player/joe-lefeged-53080/,"Germantown, MD",39.1712341,-77.2655648
+2007,Recruit,Richard Muldrow,OT,6-6,293,,,,0,William Penn,York,PA,,Enrolled,https://247sports.com/Player/richard-muldrow-53082/,"York, PA",39.962493,-76.7276989
+2007,Recruit,Keith Newell,SDE,6-7,280,,,,0,Trenton Central,Trenton,NJ,,Enrolled,https://247sports.com/Player/keith-newell-53084/,"Trenton, NJ",40.2203074,-74.7659
+2007,Recruit,Mason Robinson,ATH,5-9,180,,,,0,Somerville,Somerville,NJ,,Enrolled,https://247sports.com/Player/mason-robinson-53086/,"Somerville, NJ",40.5742696,-74.60988
+2007,Recruit,Caleb Ruch,OG,6-3,285,,,,0,Quakertown Community,Quakertown,PA,,Enrolled,https://247sports.com/Player/caleb-ruch-53087/,"Quakertown, PA",40.4417682,-75.3415667
+2007,Recruit,Fabian Ruiz,TE,6-4,224,,,,0,Sunset,Miami,FL,,Enrolled,https://247sports.com/Player/fabian-ruiz-53089/,"Miami, FL",25.7741566,-80.1935973
+2007,Recruit,Alex Silvestro,OLB,6-4,220,,,,0,Paulsboro,Paulsboro,NJ,,Enrolled,https://247sports.com/Player/alex-silvestro-53091/,"Paulsboro, NJ",39.830391,-75.2404608
+2007,Recruit,Desmond Stapleton,OT,6-6,318,,,,0,Union,Union,NJ,,Enrolled,https://247sports.com/Player/desmond-stapleton-53092/,"Union, NJ",40.6652251,-74.3045277
+2007,Recruit,San San Te,K,5-11,175,,,,0,Hickory,Hickory,NC,,Enrolled,https://247sports.com/Player/san-san-te-53093/,"Hickory, NC",35.7333312,-81.3442915
+2007,Recruit,Wayne Thomas,DT,6-6,285,,,,0,Nottingham,Mercerville,NJ,,Enrolled,https://247sports.com/Player/wayne-thomas-53094/,"Mercerville, NJ",40.233722,-74.6973321
+2007,Recruit,Joe Martinek,APB,6-0,192,,,,0,Hopatcong,Hopatcong,NJ,,Enrolled,https://247sports.com/Player/joe-martinek-53081/,"Hopatcong, NJ",40.9332051,-74.6600975
+2007,Recruit,Anthony Davis,OT,6-5,330,,,,0,Piscataway,Piscataway,NJ,,Signed,https://247sports.com/Player/anthony-davis-24474/,"Piscataway, NJ",40.5464326,-74.4660542
+2008,Recruit,Andrew DePaola,LS,6-2,200,,,,0,Hereford,Parkton,MD,,Enrolled,https://247sports.com/Player/andrew-depaola-76428/,"Parkton, MD",39.6409378,-76.6591376
+2008,Recruit,Khaseem Greene,ATH,6-2,195,,,,0,Avon Old Farms,Avon,CT,,Enrolled,https://247sports.com/Player/khaseem-greene-31419/,"Avon, CT",41.8098209,-72.8306541
+2008,Recruit,D.C. Jefferson,PRO,6-6,230,,,,0,Winter Haven,Winter Haven,FL,,Enrolled,https://247sports.com/Player/dc-jefferson-31758/,"Winter Haven, FL",28.0222435,-81.7328568
+2008,Recruit,Morgan Carter,ATH,6-3,197,,,,0,C. D. Hylton,Woodbridge,VA,,Enrolled,https://247sports.com/Player/morgan-carter-55216/,"Woodbridge, VA",38.636447,-77.2676335
+2008,Recruit,Marcus Cooper,WR,6-3,185,,,,0,Bloomfield,Bloomfield,CT,,Enrolled,https://247sports.com/Player/marcus-cooper-55227/,"Bloomfield, CT",41.8313002,-72.7370265
+2008,Recruit,Marquise Hamm,SDE,6-4,216,,,,0,New Brunswick,New Brunswick,NJ,,Enrolled,https://247sports.com/Player/marquise-hamm-55239/,"New Brunswick, NJ",40.4936119,-74.4436416
+2008,Recruit,Malcolm Johnson,WR,6-0,149,,,,0,Bartow,Bartow,FL,,Enrolled,https://247sports.com/Player/malcolm-johnson-55245/,"Bartow, FL",27.8964384,-81.843323
+2008,Recruit,Brandon Jones,WR,6-1,175,,,,0,Winslow Township,Atco,NJ,,Enrolled,https://247sports.com/Player/brandon-jones-55250/,"Atco, NJ",39.7836223,-74.9077919
+2008,Recruit,Patrick Kivlehan,S,6-1,191,,,,0,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/patrick-kivlehan-55257/,"Montvale, NJ",41.0407563,-74.0288633
+2008,Recruit,Eric LeGrand,ILB,6-3,263,,,,0,Colonia,Colonia,NJ,,Enrolled,https://247sports.com/Player/eric-legrand-55258/,"Colonia, NJ",40.5917149,-74.3142458
+2008,Recruit,David Rowe,CB,5-10,190,,,,0,Cocoa,Cocoa,FL,,Enrolled,https://247sports.com/Player/david-rowe-55260/,"Cocoa, FL",28.3556635,-80.7325345
+2008,Recruit,Stephen Shimko,PRO,6-6,210,,,,0,Ewing,Trenton,NJ,,Enrolled,https://247sports.com/Player/stephen-shimko-55267/,"Trenton, NJ",40.2203074,-74.7659
+2008,Recruit,Keith Stroud,WR,6-4,205,,,,0,Fork Union Military Academy,Fork Union,VA,,Enrolled,https://247sports.com/Player/keith-stroud-55270/,"Fork Union, VA",37.7632986,-78.2626198
+2008,Recruit,Scott Vallone,DT,6-3,255,,,,0,St. Anthony's,Melville,NY,,Enrolled,https://247sports.com/Player/scott-vallone-55271/,"Melville, NY",40.7835914,-73.4075575
+2008,Recruit,Wayne Warren,DUAL,6-1,197,,,,0,Wicomico,Salisbury,MD,,Enrolled,https://247sports.com/Player/wayne-warren-55272/,"Salisbury, MD",38.366027,-75.6009964
+2008,Recruit,Devon Watkis,OT,6-8,325,,,,0,Longwood,Middle Island,NY,,Enrolled,https://247sports.com/Player/devon-watkis-55273/,"Middle Island, NY",40.879243,-72.9401357
+2008,Recruit,Rashad White,APB,5-11,164,,,,0,Teaneck,Teaneck,NJ,,Enrolled,https://247sports.com/Player/rashad-white-55280/,"Teaneck, NJ",40.8860164,-74.0072568
+2008,Recruit,Tim Wright,ATH,6-4,200,,,,0,Wall,Belmar,NJ,,Enrolled,https://247sports.com/Player/tim-wright-55282/,"Belmar, NJ",40.1784471,-74.0218037
+2008,Recruit,Marvin Booker,OLB,6-2,200,,,,0,Piscataway,Piscataway,NJ,,Enrolled,https://247sports.com/Player/marvin-booker-55371/,"Piscataway, NJ",40.5464326,-74.4660542
+2008,Recruit,Eddie Poole,WR,6-2,180,,,,0,Glades Central,Belle Glade,FL,,Enrolled,https://247sports.com/Player/eddie-poole-55259/,"Belle Glade, FL",26.6845104,-80.6675577
+2008,Recruit,Art Forst,OT,6-8,288,,,,0,Manasquan,Manasquan,NJ,,Signed,https://247sports.com/Player/art-forst-24359/,"Manasquan, NJ",40.126226,-74.049304
+2009,Recruit,Junior Solice,ILB,6-3,245,,,,0,Hackensack,Hackensack,NJ,,Enrolled,https://247sports.com/Player/junior-solice-57193/,"Hackensack, NJ",40.8870781,-74.0410667
+2009,Recruit,Tom Savage,PRO,6-4,217,,,,0,Cardinal O'Hara,Springfield,PA,,Enrolled,https://247sports.com/Player/tom-savage-23801/,"Springfield, PA",39.9306677,-75.3201879
+2009,Recruit,De'Antwan Williams,RB,5-7,185,,,,0,Woodbridge,Woodbridge,VA,,Enrolled,https://247sports.com/Player/deantwan-williams-23803/,"Woodbridge, VA",38.636447,-77.2676335
+2009,Recruit,Isaac Holmes,DT,6-3,295,,,,0,Hoboken,Hoboken,NJ,,Enrolled,https://247sports.com/Player/isaac-holmes-23829/,"Hoboken, NJ",40.7433066,-74.0323752
+2009,Recruit,Antwan Lowery,DT,6-4,335,,,,0,Miami Columbus,Miami,FL,,Enrolled,https://247sports.com/Player/antwan-lowery-23850/,"Miami, FL",25.7741566,-80.1935973
+2009,Recruit,Steve Beauharnais,OLB,6-2,230,,,,0,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/steve-beauharnais-28665/,"Montvale, NJ",41.0407563,-74.0288633
+2009,Recruit,Malcolm Bush,TE,6-4,230,,,,0,Hackensack,Hackensack,NJ,,Enrolled,https://247sports.com/Player/malcolm-bush-28667/,"Hackensack, NJ",40.8870781,-74.0410667
+2009,Recruit,Paul Carrezola,TE,6-2,253,,,,0,Neshaminy,Langhorne,PA,,Enrolled,https://247sports.com/Player/paul-carrezola-28671/,"Langhorne, PA",40.1761812,-74.9202481
+2009,Recruit,Andre Civil,SDE,6-4,239,,,,0,Sheepshead Bay,Brooklyn,NY,,Enrolled,https://247sports.com/Player/andre-civil-28674/,"Brooklyn, NY",40.6526006,-73.9497211
+2009,Recruit,Ka'lial Glaud,ATH,6-2,217,,,,0,Winslow Township,Atco,NJ,,Enrolled,https://247sports.com/Player/kalial-glaud-28676/,"Atco, NJ",39.7836223,-74.9077919
+2009,Recruit,Duron Harmon,ATH,6-1,187,,,,0,Caesar Rodney,Camden Wyoming,DE,,Enrolled,https://247sports.com/Player/duron-harmon-28677/,"Camden Wyoming, DE",39.1111337,-75.559342
+2009,Recruit,Aaron Hayward,ATH,5-11,194,,,,0,Penns Grove,Penns Grove,NJ,,Enrolled,https://247sports.com/Player/aaron-hayward-23639/,"Penns Grove, NJ",39.7295581,-75.4679734
+2009,Recruit,Robert Joseph,RB,6-1,225,,,,0,Poly Prep,Brooklyn,NY,,Enrolled,https://247sports.com/Player/robert-joseph-28681/,"Brooklyn, NY",40.6526006,-73.9497211
+2009,Recruit,Michael Larrow,SDE,6-4,251,,,,0,Union,Union,NJ,,Enrolled,https://247sports.com/Player/michael-larrow-28682/,"Union, NJ",40.6652251,-74.3045277
+2009,Recruit,Jamil Merrell,OLB,6-4,195,,,,0,Technology,Newark,NJ,,Enrolled,https://247sports.com/Player/jamil-merrell-28683/,"Newark, NJ",40.735657,-74.1723667
+2009,Recruit,David Osei,OC,6-4,250,,,,0,Abington,Abington,PA,,Enrolled,https://247sports.com/Player/david-osei-28685/,"Abington, PA",40.114354,-75.1216878
+2009,Recruit,Quron Pratt,WR,6-0,170,,,,0,Palmyra,Palmyra,NJ,,Enrolled,https://247sports.com/Player/quron-pratt-28688/,"Palmyra, NJ",40.0070565,-75.0282271
+2009,Recruit,Logan Ryan,CB,5-11,175,,,,0,Eastern Regional,Voorhees,NJ,,Enrolled,https://247sports.com/Player/logan-ryan-28690/,"Voorhees, NJ",39.8512162,-74.9619779
+2009,Recruit,Mohamed Sanu,S,6-3,210,,,,0,South Brunswick,Monmouth Junction,NJ,,Enrolled,https://247sports.com/Player/mohamed-sanu-28694/,"Monmouth Junction, NJ",40.3840222,-74.533084
+2009,Recruit,Jamal Wilson,OT,6-6,300,,,,0,South Shore,Brooklyn,NY,,Enrolled,https://247sports.com/Player/jamal-wilson-28696/,"Brooklyn, NY",40.6526006,-73.9497211
+2009,Recruit,Abdul Smith,CB,6-0,182,,,,0,Perkiomen School,Pennsburg,PA,,Enrolled,https://247sports.com/Player/abdul-smith-31258/,"Pennsburg, PA",40.3909328,-75.4921249
+2009,Recruit,Mark Harrison,WR,6-4,220,,,,0,Bunnell,Stratford,CT,,Enrolled,https://247sports.com/Player/mark-harrison-28678/,"Stratford, CT",41.1923646,-73.1304917
+2009,Recruit,Adbul Smith,CB,6-0,185,,,,0,Perkiomen School,Pennsburg,PA,,Signed,https://247sports.com/Player/adbul-smith-28695/,"Pennsburg, PA",40.3909328,-75.4921249
+2010,Recruit,Djwany Mera,SDE,6-4,225,,,,0,South Broward,Hollywood,FL,,Enrolled,https://247sports.com/Player/djwany-mera-58503/,"Hollywood, FL",26.0112014,-80.1494901
+2010,Recruit,Sam Bergen,ILB,6-0,215,,,,0,East Stroudsburg South,East Stroudsburg,PA,,Enrolled,https://247sports.com/Player/sam-bergen-3213/,"East Stroudsburg, PA",40.9995386,-75.1812913
+2010,Recruit,Betim Bujari,OG,6-4,290,,,,0,Secaucus,Secaucus,NJ,,Enrolled,https://247sports.com/Player/betim-bujari-3214/,"Secaucus, NJ",40.7899291,-74.0566735
+2010,Recruit,Brandon Coleman,WR,6-6,200,,,,0,Bishop McNamara,Forestville,MD,,Enrolled,https://247sports.com/Player/brandon-coleman-3215/,"Forestville, MD",38.8525535,-76.8723366
+2010,Recruit,Jeremy Deering,WR,6-2,198,,87.0,,3,Leto,Tampa,FL,,Enrolled,https://247sports.com/Player/jeremy-deering-3216/,"Tampa, FL",27.9449854,-82.4583107
+2010,Recruit,Chas Dodd,DUAL,5-11,170,,80.0,,3,Byrnes,Duncan,SC,,Enrolled,https://247sports.com/Player/chas-dodd-3217/,"Duncan, SC",34.9378962,-82.1451096
+2010,Recruit,Chris Fonti,OT,6-7,305,,,,0,Wayne Hills,Wayne,NJ,,Enrolled,https://247sports.com/Player/chris-fonti-3218/,"Wayne, NJ",40.9491723,-74.2376802
+2010,Recruit,Gareef Glashen,CB,5-10,167,,,,0,Miami Carol City,Opa Locka,FL,,Enrolled,https://247sports.com/Player/gareef-glashen-3219/,"Opa Locka, FL",25.9023168,-80.2503271
+2010,Recruit,Jawan Jamison,RB,5-8,185,,,,0,The Bolles School,Jacksonville,FL,,Enrolled,https://247sports.com/Player/jawan-jamison-3220/,"Jacksonville, FL",30.3262247,-81.6579179
+2010,Recruit,Tejay Johnson,ATH,6-2,190,,,,0,Egg Harbor Township,Egg Harbor Township,NJ,,Enrolled,https://247sports.com/Player/tejay-johnson-3221/,"Egg Harbor Township, NJ",39.3820672,-74.6171489
+2010,Recruit,Rashad Knight,S,5-10,181,,,,0,Trinity Christian Academy,Jacksonville,FL,,Enrolled,https://247sports.com/Player/rashad-knight-3223/,"Jacksonville, FL",30.3262247,-81.6579179
+2010,Recruit,Taj Alexander,DT,6-4,295,,,,0,Downingtown East,Exton,PA,,Enrolled,https://247sports.com/Player/taj-alexander-3212/,"Exton, PA",40.0299755,-75.6290436
+2010,Recruit,Frank Quartucci,OG,6-4,290,,,,0,Hamilton West-watson,Trenton,NJ,,Enrolled,https://247sports.com/Player/frank-quartucci-3227/,"Trenton, NJ",40.2203074,-74.7659
+2010,Recruit,J.T. Tartacoff,ATH,6-0,184,,,,0,Montgomery,Skillman,NJ,,Enrolled,https://247sports.com/Player/jt-tartacoff-3228/,"Skillman, NJ",40.4234145,-74.7077882
+2010,Recruit,Jordan Thomas,APB,6-1,187,,,,0,Union Endicott,Endicott,NY,,Enrolled,https://247sports.com/Player/jordan-thomas-3229/,"Endicott, NY",42.098408,-76.0493684
+2010,Recruit,Marcus Thompson,ILB,6-2,219,,,,0,Boyd Anderson,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/marcus-thompson-3230/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2010,Recruit,Casey Turner,RB,5-11,190,,,,0,Ed White,Jacksonville,FL,,Enrolled,https://247sports.com/Player/casey-turner-3231/,"Jacksonville, FL",30.3262247,-81.6579179
+2010,Recruit,Jorge Vicioso,OT,6-5,290,,,,0,Passaic,Passaic,NJ,,Enrolled,https://247sports.com/Player/jorge-vicioso-3232/,"Passaic, NJ",41.0461864,-74.3177933
+2010,Recruit,Lorenzo Waters,S,6-1,197,,,,0,DeMatha Catholic,Hyattsville,MD,,Enrolled,https://247sports.com/Player/lorenzo-waters-3233/,"Hyattsville, MD",38.9529442,-76.9408647
+2010,Recruit,Jawaun Wynn,WR,6-3,185,,,,0,Piscataway,Piscataway,NJ,,Enrolled,https://247sports.com/Player/jawaun-wynn-3234/,"Piscataway, NJ",40.5464326,-74.4660542
+2010,Recruit,David Milewski,OLB,6-4,220,,,,0,Sayreville War Memorial,Parlin,NJ,,Enrolled,https://247sports.com/Player/david-milewski-6929/,"Parlin, NJ",40.4628177,-74.3105018
+2010,Recruit,Rob Forst,OG,6-4,280,,,,0,Manasquan,Manasquan,NJ,,Enrolled,https://247sports.com/Player/rob-forst-58501/,"Manasquan, NJ",40.126226,-74.049304
+2010,Recruit,Kenneth Kirksey,DT,6-1,290,,,,0,Mainland,Daytona Beach,FL,,Enrolled,https://247sports.com/Player/kenneth-kirksey-58502/,"Daytona Beach, FL",29.2108147,-81.0228331
+2010,Recruit,Fred Overstreet,ILB,6-1,220,,,,0,Jefferson,Tampa,FL,,Enrolled,https://247sports.com/Player/fred-overstreet-3226/,"Tampa, FL",27.9449854,-82.4583107
+2010,Recruit,Matt McBride,OT,6-6,280,,,,0,Hicksville,Hicksville,NY,,Signed,https://247sports.com/Player/matt-mcbride-3224/,"Hicksville, NY",40.7695303,-73.5293246
+2011,Recruit,Al Page,DT,6-3,290,,94.0,,4,Christopher Columbus,Bronx,NY,,Enrolled,https://247sports.com/Player/al-page-2067/,"Bronx, NY",40.8466508,-73.8785937
+2011,Recruit,Keith Lumpkin,OT,6-7,290,,89.0,,3,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/keith-lumpkin-184/,"Jersey City, NJ",40.7215682,-74.047455
+2011,Recruit,Quentin Gause,OLB,6-0,200,,88.0,,3,Bishop Kearney,Rochester,NY,,Enrolled,https://247sports.com/Player/quentin-gause-1320/,"Rochester, NY",43.157285,-77.615214
+2011,Recruit,Gary Nova,PRO,6-2,210,,81.0,,3,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/gary-nova-178/,"Ramsey, NJ",41.0573188,-74.1409771
+2011,Recruit,Mike Bimonte,PRO,6-4,215,,80.0,,3,Manalapan,Englishtown,NJ,,Enrolled,https://247sports.com/Player/mike-bimonte-2061/,"Englishtown, NJ",40.2973319,-74.3582041
+2011,Recruit,Tyler Kroft,TE,6-5,225,,80.0,,3,Downingtown East,Exton,PA,,Enrolled,https://247sports.com/Player/tyler-kroft-2065/,"Exton, PA",40.0299755,-75.6290436
+2011,Recruit,Anthony DiPaula,K,6-1,220,,75.0,,2,St. John Vianney Regional,Holmdel,NJ,,Enrolled,https://247sports.com/Player/anthony-dipaula-8417/,"Holmdel, NJ",40.3451095,-74.1840322
+2011,Recruit,Savon Huggins,RB,6-0,190,,97.0,,4,St. Peter's Prep,Jersey City,NJ,,Signed,https://247sports.com/Player/savon-huggins-176/,"Jersey City, NJ",40.7215682,-74.047455
+2011,Recruit,Miles Shuler,ATH,5-11,175,,92.0,,4,Long Branch,Long Branch,NJ,,Signed,https://247sports.com/Player/miles-shuler-180/,"Long Branch, NJ",40.3042778,-73.9923596
+2011,Recruit,Marquise Wright,DT,6-3,275,,90.0,,4,Paramus Catholic,Paramus,NJ,,Signed,https://247sports.com/Player/marquise-wright-173/,"Paramus, NJ",40.9452911,-74.0735899
+2011,Recruit,Jonathan Aiken,CB,5-11,185,,86.0,,3,Chaminade-Madonna,Hollywood,FL,,Signed,https://247sports.com/Player/jonathan-aiken-1251/,"Hollywood, FL",26.0112014,-80.1494901
+2011,Recruit,Charles Davis,RB,6-0,190,,85.0,,3,Neptune,Neptune,NJ,,Signed,https://247sports.com/Player/charles-davis-2063/,"Neptune, NJ",39.2191278,-74.7129026
+2011,Recruit,Kaleb Johnson,OT,6-4,290,,85.0,,3,Ed White,Jacksonville,FL,,Signed,https://247sports.com/Player/kaleb-johnson-971/,"Jacksonville, FL",30.3262247,-81.6579179
+2011,Recruit,Max Issaka,WDE,6-2,230,,84.0,,3,Woodbridge,Woodbridge,NJ,,Signed,https://247sports.com/Player/max-issaka-181/,"Woodbridge, NJ",40.55418,-74.2860008
+2011,Recruit,Daryl Stephenson,DT,6-3,270,,83.0,,3,Sayreville War Memorial,Parlin,NJ,,Signed,https://247sports.com/Player/daryl-stephenson-2069/,"Parlin, NJ",40.4628177,-74.3105018
+2011,Recruit,Kyle George,WDE,6-4,235,,82.0,,3,Willingboro,Willingboro,NJ,,Signed,https://247sports.com/Player/kyle-george-2064/,"Willingboro, NJ",40.0289423,-74.8808221
+2011,Recruit,Ben Martin,APB,5-10,190,,80.0,,3,Absegami,Galloway,NJ,,Signed,https://247sports.com/Player/ben-martin-2066/,"Galloway, NJ",40.3688911,-74.1561383
+2011,Recruit,Myles Jackson,OLB,6-4,225,,80.0,,3,Henderson,West Chester,PA,,Signed,https://247sports.com/Player/myles-jackson-2155/,"West Chester, PA",39.9597389,-75.6044609
+2011,Recruit,Paul Canevari,ATH,6-0,210,,70.0,,2,Don Bosco Prep,Ramsey,NJ,,Signed,https://247sports.com/Player/paul-canevari-9595/,"Ramsey, NJ",41.0573188,-74.1409771
+2011,Recruit,Kevin Snyder,OLB,6-3,210,,70.0,,2,Cumberland Valley,Mechanicsburg,PA,,Signed,https://247sports.com/Player/kevin-snyder-2068/,"Mechanicsburg, PA",40.2101972,-77.0047276
+2011,Recruit,Kenneth Kirksey,DT,6-1,290,,83.0,,3,Fork Union Military Academy,Fork Union,VA,,Signed,https://247sports.com/Player/kenneth-kirksey-3222/,"Fork Union, VA",37.7632986,-78.2626198
+2011,Recruit,Dallas Hendrikson,OC,6-1,290,,70.0,,2,Iowa Western C.C.,Council Bluffs,IA,,Signed,https://247sports.com/Player/dallas-hendrikson-8416/,"Council Bluffs, IA",41.258841,-95.8519484
+2011,Recruit,Tejay Johnson,WR,6-2,190,,86.0,,3,Fork Union Military Academy,Fork Union,VA,,Signed,https://247sports.com/Player/tejay-johnson-8418/,"Fork Union, VA",37.7632986,-78.2626198
+2012,Recruit,Darius Hamilton,SDE,6-4,250,,98.0,,5,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/darius-hamilton-9488/,"Ramsey, NJ",41.0573188,-74.1409771
+2012,Recruit,Quanzell Lambert,ILB,6-3,240,,95.0,,4,Timber Creek,Sicklerville,NJ,,Enrolled,https://247sports.com/Player/quanzell-lambert-3708/,"Sicklerville, NJ",39.7173375,-74.9693329
+2012,Recruit,Chris Muller,OT,6-6,287,,95.0,,4,Boyertown Area,Boyertown,PA,,Enrolled,https://247sports.com/Player/chris-muller-7238/,"Boyertown, PA",40.3337075,-75.6374083
+2012,Recruit,Jamil Pollard,DT,6-4,270,,93.0,,4,West Deptford,Westville,NJ,,Enrolled,https://247sports.com/Player/jamil-pollard-9097/,"Westville, NJ",39.8700552,-75.1265177
+2012,Recruit,J.J. Denman,OT,6-6,310,,93.0,,4,Pennsbury,Fairless Hills,PA,,Enrolled,https://247sports.com/Player/jj-denman-2566/,"Fairless Hills, PA",40.178142,-74.8564446
+2012,Recruit,Leonte Carroo,WR,6-2,195,,92.0,,4,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/leonte-carroo-2228/,"Ramsey, NJ",41.0573188,-74.1409771
+2012,Recruit,Ruhann Peele,WR,6-1,170,,92.0,,4,Linden,Linden,NJ,,Enrolled,https://247sports.com/Player/ruhann-peele-1655/,"Linden, NJ",40.6220478,-74.2445902
+2012,Recruit,Ryan Brodie,OT,6-5,260,,92.0,,4,Long Branch,Long Branch,NJ,,Enrolled,https://247sports.com/Player/ryan-brodie-7246/,"Long Branch, NJ",40.3042778,-73.9923596
+2012,Recruit,Ian Thomas,WR,6-1,193,,90.0,,4,Franklin,Reisterstown,MD,,Enrolled,https://247sports.com/Player/ian-thomas-8407/,"Reisterstown, MD",39.4695489,-76.8294213
+2012,Recruit,Steve Longa,OLB,6-1,210,,89.0,,3,Saddle Brook Mid/high Sch,Rochelle Park,NJ,,Enrolled,https://247sports.com/Player/steve-longa-12140/,"Rochelle Park, NJ",40.9092993,-74.0733086
+2012,Recruit,Julian Pinnix-Odrick,SDE,6-4,245,,87.0,,3,Montclair,Montclair,NJ,,Enrolled,https://247sports.com/Player/julian-pinnix-odrick-9221/,"Montclair, NJ",40.8164458,-74.2210643
+2012,Recruit,Davon Jacobs,ATH,6-2,185,,86.0,,3,De Paul Catholic,Wayne,NJ,,Enrolled,https://247sports.com/Player/davon-jacobs-8383/,"Wayne, NJ",40.9491723,-74.2376802
+2012,Recruit,Desmon Peoples,APB,5-8,175,,86.0,,3,Archbishop Wood,Warminster,PA,,Enrolled,https://247sports.com/Player/desmon-peoples-3709/,"Warminster, PA",40.2067751,-75.0996159
+2012,Recruit,Derrick Nelson,OT,6-4,283,,82.0,,3,Archbishop Carroll,Washington,DC,,Enrolled,https://247sports.com/Player/derrick-nelson-7130/,"Washington, DC",38.8950982,-77.0363849
+2012,Recruit,Carlton Agudosi,WR,6-6,203,,82.0,,3,Franklin Township,Somerset,NJ,,Enrolled,https://247sports.com/Player/carlton-agudosi-12400/,"Somerset, NJ",40.5675084,-74.6189556
+2012,Recruit,Blake Rankin,PRO,6-4,195,,77.0,,2,Bloomsburg Area,Bloomsburg,PA,,Enrolled,https://247sports.com/Player/blake-rankin-8726/,"Bloomsburg, PA",41.0044958,-76.4537302
+2012,Recruit,Kyle Federico,K,6-0,175,,75.0,,2,Ponte Vedra,Ponte Vedra Beach,FL,,Enrolled,https://247sports.com/Player/kyle-federico-14326/,"Ponte Vedra Beach, FL",30.2396865,-81.3856384
+2012,Recruit,Vance Matthews,WR,6-4,195,,,,0,Lower Cape May Reg,Cape May,NJ,,Enrolled,https://247sports.com/Player/vance-matthews-81113/,"Cape May, NJ",39.1765386,-74.8012119
+2012,Recruit,Bryan Stonkus,OT,6-4,250,,,,0,South Brunswick,Monmouth Junction,NJ,,Enrolled,https://247sports.com/Player/bryan-stonkus-81126/,"Monmouth Junction, NJ",40.3840222,-74.533084
+2012,Recruit,Jevon Tyree,ATH,5-10,170,,85.0,,3,South Brunswick,Monmouth Junction,NJ,,Signed,https://247sports.com/Player/jevon-tyree-10388/,"Monmouth Junction, NJ",40.3840222,-74.533084
+2012,Recruit,Delon Stephenson,ATH,5-11,170,,80.0,,3,Sayreville War Memorial,Parlin,NJ,,Signed,https://247sports.com/Player/delon-stephenson-11443/,"Parlin, NJ",40.4628177,-74.3105018
+2012,Recruit,Brandon Arcidiacono,OG,6-5,250,,78.0,,2,Archbishop Wood,Warminster,PA,,Signed,https://247sports.com/Player/brandon-arcidiacono-11415/,"Warminster, PA",40.2067751,-75.0996159
+2013,Recruit,Nadir Barnwell,ATH,5-11,188,,92.0,,4,Piscataway,Piscataway,NJ,,Enrolled,https://247sports.com/Player/nadir-barnwell-10763/,"Piscataway, NJ",40.5464326,-74.4660542
+2013,Recruit,Damon Mitchell,S,6-2,190,,90.0,,4,Egg Harbor Township,Egg Harbor Township,NJ,,Enrolled,https://247sports.com/Player/damon-mitchell-19181/,"Egg Harbor Township, NJ",39.3820672,-74.6171489
+2013,Recruit,Chris Laviano,PRO,6-2,200,,89.0,,3,Holy Trinity Diocesan,Hicksville,NY,,Enrolled,https://247sports.com/Player/chris-laviano-12851/,"Hicksville, NY",40.7695303,-73.5293246
+2013,Recruit,Nick Internicola,OLB,6-4,220,,89.0,,3,University School,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/nick-internicola-17345/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2013,Recruit,Dorian Miller,OT,6-3,310,,88.0,,3,Metuchen,Metuchen,NJ,,Enrolled,https://247sports.com/Player/dorian-miller-12064/,"Metuchen, NJ",40.5431598,-74.3632049
+2013,Recruit,Janarion Grant,ATH,6-0,180,,87.0,,3,Pasco,Dade City,FL,,Enrolled,https://247sports.com/Player/janarion-grant-14424/,"Dade City, FL",28.3647248,-82.1959178
+2013,Recruit,Taylor Marini,TE,6-2.75,222,,86.0,,3,Lake Mary,Lake Mary,FL,,Enrolled,https://247sports.com/Player/taylor-marini-17418/,"Lake Mary, FL",28.7562749,-81.322093
+2013,Recruit,Nick Arcidiacono,OC,6-3,230,,85.0,,3,Archbishop Wood,Warminster,PA,,Enrolled,https://247sports.com/Player/nick-arcidiacono-15479/,"Warminster, PA",40.2067751,-75.0996159
+2013,Recruit,Myles Nash,ATH,6-5,200,,85.0,,3,Timber Creek,Sicklerville,NJ,,Enrolled,https://247sports.com/Player/myles-nash-10969/,"Sicklerville, NJ",39.7173375,-74.9693329
+2013,Recruit,John Tsimis,WR,6-0,170,,85.0,,3,Bergen Catholic,Oradell,NJ,,Enrolled,https://247sports.com/Player/john-tsimis-15690/,"Oradell, NJ",40.9543943,-74.0308504
+2013,Recruit,Justin Goodwin,RB,5-11,185,,84.0,,3,Madison,Madison,NJ,,Enrolled,https://247sports.com/Player/justin-goodwin-21124/,"Madison, NJ",40.7598227,-74.417097
+2013,Recruit,Dontea Ayres,RB,5-9,205,,84.0,,3,Middletown,Middletown,DE,,Enrolled,https://247sports.com/Player/dontea-ayres-18609/,"Middletown, DE",39.4497639,-75.7166345
+2013,Recruit,Andre Patton,WR,6-4,200,,84.0,,3,St. Elizabeth,Wilmington,DE,,Enrolled,https://247sports.com/Player/andre-patton-18389/,"Wilmington, DE",39.7459468,-75.546589
+2013,Recruit,TJ Taylor,ATH,6-3,180,,82.0,,3,South Brunswick,Monmouth Junction,NJ,,Enrolled,https://247sports.com/Player/tj-taylor-19776/,"Monmouth Junction, NJ",40.3840222,-74.533084
+2013,Recruit,Kemoko Turay,WDE,6-5,210,,80.0,,3,Barringer,Newark,NJ,,Enrolled,https://247sports.com/Player/kemoko-turay-23419/,"Newark, NJ",40.735657,-74.1723667
+2013,Recruit,Delon Stephenson,CB,5-11,180,,80.0,,3,Milford Academy,New Berlin,NY,,Enrolled,https://247sports.com/Player/delon-stephenson-11443/,"New Berlin, NY",42.6239023,-75.3321363
+2013,Recruit,Devan Carter,ILB,6-2,220,,79.0,,2,Brighton,Rochester,NY,,Enrolled,https://247sports.com/Player/devan-carter-21869/,"Rochester, NY",43.157285,-77.615214
+2013,Recruit,Sebastian Joseph,SDE,6-4,270,,79.0,,2,Stroudsburg,Stroudsburg,PA,,Enrolled,https://247sports.com/Player/sebastian-joseph-22061/,"Stroudsburg, PA",40.9864261,-75.1946649
+2013,Recruit,Anthony Cioffi,RB,6-0,175,,78.0,,2,Jonathan Dayton Sch,Springfield,NJ,,Enrolled,https://247sports.com/Player/anthony-cioffi-16538/,"Springfield, NJ",40.7109107,-74.3099398
+2013,Recruit,Bryant Gross Armiento,S,6-1,188,,78.0,,2,American Heritage,Plantation,FL,,Enrolled,https://247sports.com/Player/bryant-gross-armiento-23155/,"Plantation, FL",26.1275862,-80.2331036
+2013,Recruit,Josh Klecko,DT,6-2,240,,76.0,,2,Red Bank Catholic,Red Bank,NJ,,Enrolled,https://247sports.com/Player/josh-klecko-22073/,"Red Bank, NJ",40.3470543,-74.0643065
+2013,Recruit,Aidan Murray,P,5-8,170,,,,0,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/aidan-murray-81120/,"Ramsey, NJ",41.0573188,-74.1409771
+2013,Recruit,Darnell Davis Jr.,ILB,6-2,235,,,,0,Avon Old Farms,Avon,CT,,Enrolled,https://247sports.com/Player/darnell-davis-jr-81132/,"Avon, CT",41.8098209,-72.8306541
+2013,Recruit,Nick Rafferty,OLB,6-2,210,,,,0,Lenape Val Regional,Stanhope,NJ,,Enrolled,https://247sports.com/Player/nick-rafferty-81133/,"Stanhope, NJ",40.9028765,-74.7090517
+2013,Recruit,David Bonagura,K,6-0,230,,,,0,Ramapo,Franklin Lakes,NJ,,Enrolled,https://247sports.com/Player/david-bonagura-81135/,"Franklin Lakes, NJ",41.0167639,-74.2057012
+2013,Recruit,Lloyd Taylor,RB,5-11,240,,,,0,Northern Burlington,Columbus,NJ,,Enrolled,https://247sports.com/Player/lloyd-taylor-81142/,"Columbus, NJ",40.0726112,-74.7207156
+2013,Recruit,Razohnn Gross,ILB,5-11,217,,,,0,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/razohnn-gross-16294/,"Ramsey, NJ",41.0573188,-74.1409771
+2013,Recruit,Brian Verbitski,CB,5-11,158,,,,0,Burlington Township,Burlington,NJ,,Enrolled,https://247sports.com/Player/brian-verbitski-81144/,"Burlington, NJ",39.9325409,-74.7226665
+2013,Recruit,Andrew Harte,K,6-0,189,,,,0,Montini Catholic,Lombard,IL,,Enrolled,https://247sports.com/Player/andrew-harte-76101/,"Lombard, IL",41.8864687,-88.0201536
+2013,Recruit,Eric Wiafe,SDE,6-4,240,,80.0,,3,Egg Harbor Township,Egg Harbor Township,NJ,,Signed,https://247sports.com/Player/eric-wiafe-21161/,"Egg Harbor Township, NJ",39.3820672,-74.6171489
+2014,Recruit,Kiy Hester,ATH,6-0,200,,90.0,,4,De Paul Catholic,Wayne,NJ,,Enrolled,https://247sports.com/Player/kiy-hester-20879/,"Wayne, NJ",40.9491723,-74.2376802
+2014,Recruit,Robert Martin,RB,6-0,190,,88.0,,3,Harrisburg,Harrisburg,PA,,Enrolled,https://247sports.com/Player/robert-martin-26766/,"Harrisburg, PA",40.2663107,-76.8861122
+2014,Recruit,Josh Hicks,RB,5-10,180,,88.0,,3,Palmetto,Palmetto,FL,,Enrolled,https://247sports.com/Player/josh-hicks-25939/,"Palmetto, FL",27.5214269,-82.5723193
+2014,Recruit,Tariq Cole,OT,6-6,365,,88.0,,3,Long Beach,Long Beach,NY,,Enrolled,https://247sports.com/Player/tariq-cole-36218/,"Long Beach, NY",40.5885508,-73.6582631
+2014,Recruit,Jacquis Webb,OG,6-4,290,,85.0,,3,Gates-Chili,Rochester,NY,,Enrolled,https://247sports.com/Player/jacquis-webb-27111/,"Rochester, NY",43.157285,-77.615214
+2014,Recruit,Marcus Applefield,OT,6-6,280,,85.0,,3,Weeki Wachee,Weeki Wachee,FL,,Enrolled,https://247sports.com/Player/marcus-applefield-30546/,"Weeki Wachee, FL",28.5156479,-82.5735662
+2014,Recruit,Kam Lott,CB,5-10,180,,84.0,,3,First Coast,Jacksonville,FL,,Enrolled,https://247sports.com/Player/kam-lott-22932/,"Jacksonville, FL",30.3262247,-81.6579179
+2014,Recruit,Giovanni Rescigno,PRO,6-4,210,,84.0,,3,De La Salle Collegiate,Warren,MI,,Enrolled,https://247sports.com/Player/giovanni-rescigno-33563/,"Warren, MI",42.4932575,-83.0062746
+2014,Recruit,Zack Heeman,OT,6-8,270,,83.0,,3,Mount Olive,Flanders,NJ,,Enrolled,https://247sports.com/Player/zack-heeman-30633/,"Flanders, NJ",40.841775,-74.7179824
+2014,Recruit,Donald Bedell,SDE,6-4,230,,83.0,,3,Rumson-Fair Haven,Rumson,NJ,,Enrolled,https://247sports.com/Player/donald-bedell-33078/,"Rumson, NJ",40.372054,-73.9990269
+2014,Recruit,Jimmy Hogan,SDE,6-5,225,,83.0,,3,Ramapo,Franklin Lakes,NJ,,Enrolled,https://247sports.com/Player/jimmy-hogan-31041/,"Franklin Lakes, NJ",41.0167639,-74.2057012
+2014,Recruit,Eric Wiafe,DT,6-4,240,,82.0,,3,Milford Academy,New Berlin,NY,,Enrolled,https://247sports.com/Player/eric-wiafe-21161/,"New Berlin, NY",42.6239023,-75.3321363
+2014,Recruit,Andre Boggs,CB,5-11,175,,82.0,,3,Avon Old Farms,Avon,CT,,Enrolled,https://247sports.com/Player/andre-boggs-28764/,"Avon, CT",41.8098209,-72.8306541
+2014,Recruit,Logan Lister,TE,6-3.5,261,,80.0,,3,Katy,Katy,TX,,Enrolled,https://247sports.com/Player/logan-lister-28373/,"Katy, TX",29.7857853,-95.8243956
+2014,Recruit,Jacob Kraut,FB,5-11,240,,79.0,,2,Duncan U. Fletcher,Neptune Beach,FL,,Enrolled,https://247sports.com/Player/jacob-kraut-23186/,"Neptune Beach, FL",30.311908,-81.3964734
+2014,Recruit,Saquan Hampton,CB,6-2,185,,78.0,,2,Nottingham,Mercerville,NJ,,Enrolled,https://247sports.com/Player/saquan-hampton-30635/,"Mercerville, NJ",40.233722,-74.6973321
+2014,Recruit,Kevin Wilkins,OG,6-4,278,,78.0,,2,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/kevin-wilkins-21139/,"Montvale, NJ",41.0407563,-74.0288633
+2014,Recruit,Isaiah Wharton,CB,6-1,185,,77.0,,2,Gateway,Kissimmee,FL,,Enrolled,https://247sports.com/Player/isaiah-wharton-32112/,"Kissimmee, FL",28.2918995,-81.4075838
+2014,Recruit,George Behr,TE,6-5,235,,74.0,,2,East Ridge,Saint Paul,MN,,Enrolled,https://247sports.com/Player/george-behr-31936/,"Saint Paul, MN",44.9497487,-93.0931028
+2014,Recruit,Brandon Russell,OLB,6-1,205,,74.0,,2,University School,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/brandon-russell-32799/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2014,Recruit,Darian Dailey,CB,5-11,177,,73.0,,2,Manatee,Bradenton,FL,,Enrolled,https://247sports.com/Player/darian-dailey-32925/,"Bradenton, FL",27.4989278,-82.5748194
+2014,Recruit,Alan Lucy,LS,6-0,230,,70.0,,2,Dinwiddie County,Dinwiddie,VA,,Enrolled,https://247sports.com/Player/alan-lucy-33024/,"Dinwiddie, VA",37.0712818,-77.6480714
+2014,Recruit,Sam Blue,OLB,6-2.5,232,,70.0,,2,Millbrook,Raleigh,NC,,Enrolled,https://247sports.com/Player/sam-blue-32996/,"Raleigh, NC",35.7803977,-78.6390989
+2014,Recruit,Eric Margolis,ILB,6-4,215,,70.0,,2,Clarkstown North Senior,New City,NY,,Enrolled,https://247sports.com/Player/eric-margolis-40639/,"New City, NY",41.1509835,-73.9897782
+2014,Recruit,Talib Abdur-Ra'Oof,CB,6-0,200,,,,0,Bergen Catholic,Oradell,NJ,,Enrolled,https://247sports.com/Player/talib-abdur-raoof-81145/,"Oradell, NJ",40.9543943,-74.0308504
+2014,Recruit,Kevin Daly,K,6-2,180,,,,0,Kennedy Catholic,Hermitage,PA,,Enrolled,https://247sports.com/Player/kevin-daly-81137/,"Hermitage, PA",41.2333897,-80.44868
+2014,Recruit,Michael Cintron,K,6-4,205,,,,0,St. Joseph,Metuchen,NJ,,Enrolled,https://247sports.com/Player/michael-cintron-81136/,"Metuchen, NJ",40.5431598,-74.3632049
+2014,Recruit,Charles Scarff,TE,6-5,225,,,,0,Lancaster Catholic,Lancaster,PA,,Enrolled,https://247sports.com/Player/charles-scarff-81116/,"Lancaster, PA",40.0379958,-76.3056707
+2014,Recruit,Sandy Anya,WR,5-10,180,,,,0,Franklin Township,Somerset,NJ,,Enrolled,https://247sports.com/Player/sandy-anya-81111/,"Somerset, NJ",40.5675084,-74.6189556
+2014,Recruit,Sidney Gopre,OLB,6-0,200,,89.0,,3,Weequahic,Newark,NJ,,Signed,https://247sports.com/Player/sidney-gopre-29271/,"Newark, NJ",40.735657,-74.1723667
+2014,Recruit,Justin Nelson,OLB,6-1,245,,88.0,,3,De Paul Catholic,Wayne,NJ,,Signed,https://247sports.com/Player/justin-nelson-23422/,"Wayne, NJ",40.9491723,-74.2376802
+2014,Recruit,Cal Ibanez,OT,6-5,325,,,,0,Fullerton College,Fullerton,CA,,Commit 5/10/2014,https://247sports.com/Player/cal-ibanez-61759/,"Fullerton, CA",33.8708215,-117.929416
+2015,Recruit,Marques Ford,SDE,6-4,230,,89.0,,3,East Bay,Gibsonton,FL,,Enrolled,https://247sports.com/Player/marques-ford-43451/,"Gibsonton, FL",27.8497857,-82.3817515
+2015,Recruit,Najee Clayton,WR,6-3,215,,88.0,,3,Paramus Catholic,Paramus,NJ,,Enrolled,https://247sports.com/Player/najee-clayton-16175/,"Paramus, NJ",40.9452911,-74.0735899
+2015,Recruit,Michael Dare,PRO,6-5,225,,86.0,,3,Memorial,Elmwood Park,NJ,,Enrolled,https://247sports.com/Player/michael-dare-27540/,"Elmwood Park, NJ",40.9074237,-74.1183543
+2015,Recruit,Blessuan Austin,CB,6-2,195,,85.0,,3,Milford Academy,New Berlin,NY,,Enrolled,https://247sports.com/Player/blessuan-austin-77592/,"New Berlin, NY",42.6239023,-75.3321363
+2015,Recruit,Jack Shutack,OT,6-6,275,,84.0,,3,Nazareth Academy,La Grange Park,IL,,Enrolled,https://247sports.com/Player/jack-shutack-38096/,"La Grange Park, IL",41.8333646,-87.8677324
+2015,Recruit,Charles Snorweah,RB,5-10,175,,84.0,,3,Pennsbury,Fairless Hills,PA,,Enrolled,https://247sports.com/Player/charles-snorweah-58506/,"Fairless Hills, PA",40.178142,-74.8564446
+2015,Recruit,Rashad Blunt,WR,6-2,190,,84.0,,3,Creekside,St. Johns,FL,,Enrolled,https://247sports.com/Player/rashad-blunt-42262/,"St. Johns, FL",29.9032284,-81.4145468
+2015,Recruit,Jon Bateky,SDE,6-4,235,,84.0,,3,Poolesville,Poolesville,MD,,Enrolled,https://247sports.com/Player/jon-bateky-56323/,"Poolesville, MD",39.146088,-77.4166561
+2015,Recruit,Kamaal Seymour,DT,6-6,270,,84.0,,3,Grand Street,Brooklyn,NY,,Enrolled,https://247sports.com/Player/kamaal-seymour-77710/,"Brooklyn, NY",40.6526006,-73.9497211
+2015,Recruit,Dontae Owens,WR,6-0,180,,84.0,,3,Reading,Reading,PA,,Enrolled,https://247sports.com/Player/dontae-owens-78681/,"Reading, PA",40.335345,-75.9279495
+2015,Recruit,Jarius Adams,CB,5-11,180,,83.0,,3,Dwyer,Palm Beach Gardens,FL,,Enrolled,https://247sports.com/Player/jarius-adams-54480/,"Palm Beach Gardens, FL",26.8233946,-80.1386547
+2015,Recruit,Zach Venesky,OG,6-4,280,,83.0,,3,Valley View,Archbald,PA,,Enrolled,https://247sports.com/Player/zach-venesky-34498/,"Archbald, PA",41.4948038,-75.5368521
+2015,Recruit,Anthony Folkerts,TE,6-5,214,,83.0,,3,Valwood School,Valdosta,GA,,Enrolled,https://247sports.com/Player/anthony-folkerts-59418/,"Valdosta, GA",30.8327022,-83.2784851
+2015,Recruit,Deonte Roberts,ATH,6-2,210,,82.0,,3,Erasmus Hall,Brooklyn,NY,,Enrolled,https://247sports.com/Player/deonte-roberts-31164/,"Brooklyn, NY",40.6526006,-73.9497211
+2015,Recruit,Willington Previlon,SDE,6-5,230,,81.0,,3,Orange,Orange,NJ,,Enrolled,https://247sports.com/Player/willington-previlon-74149/,"Orange, NJ",40.7709499,-74.2264601
+2015,Recruit,Manny Taylor,OT,6-6,270,,80.0,,3,Roman Catholic,Philadelphia,PA,,Enrolled,https://247sports.com/Player/manny-taylor-70349/,"Philadelphia, PA",39.9527237,-75.1635262
+2015,Recruit,Nakia Griffin-Stewart,TE,6-5,220,,79.0,,2,Tenafly,Tenafly,NJ,,Enrolled,https://247sports.com/Player/nakia-griffin-stewart-44303/,"Tenafly, NJ",40.9253766,-73.9629154
+2015,Recruit,Ronnie James,S,6-0,180,,79.0,,2,Glassboro,Glassboro,NJ,,Enrolled,https://247sports.com/Player/ronnie-james-36724/,"Glassboro, NJ",39.7027677,-75.1119434
+2015,Recruit,Ron'Dell Carter,SDE,6-3,227,,78.0,,2,Long Reach,Columbia,MD,,Enrolled,https://247sports.com/Player/rondell-carter-27584/,"Columbia, MD",39.1938429,-76.8646092
+2015,Recruit,Jawuan Harris,WR,5-10,185,,78.0,,2,St. Thomas Aquinas,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/jawuan-harris-53814/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2015,Recruit,Jonah Jackson,OT,6-4,285,,77.0,,2,Penncrest,Media,PA,,Enrolled,https://247sports.com/Player/jonah-jackson-57240/,"Media, PA",39.9167783,-75.387693
+2015,Recruit,Trevor Morris,OLB,6-2,200,,77.0,,2,Malvern Prep,Malvern,PA,,Enrolled,https://247sports.com/Player/trevor-morris-36667/,"Malvern, PA",40.036202,-75.5138959
+2015,Recruit,Isaiah Johnson,ILB,6-2,220,,76.0,,2,City College of San Francisco,San Francisco,CA,,Enrolled,https://247sports.com/Player/isaiah-johnson-78207/,"San Francisco, CA",37.7879363,-122.4075201
+2015,Recruit,Izaia Bullock,OLB,5-11,220,,,,0,Linden,Linden,NJ,,Enrolled,https://247sports.com/Player/izaia-bullock-46057610/,"Linden, NJ",40.6220478,-74.2445902
+2015,Recruit,Gavin Haggerty,K,5-8,170,,,,0,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/gavin-haggerty-46057920/,"Montvale, NJ",41.0407563,-74.0288633
+2015,Recruit,Sidney Gopre,RB,6-0,210,,88.0,,3,Milford Academy,New Berlin,NY,,Signed,https://247sports.com/Player/sidney-gopre-29271/,"New Berlin, NY",42.6239023,-75.3321363
+2015,Recruit,Dwon Walker,CB,6-0,180,,,,0,St. Peter's Prep,Jersey City,NJ,,Signed,https://247sports.com/Player/dwon-walker-36369/,"Jersey City, NJ",40.7215682,-74.047455
+2015,Recruit,Alkadair Ports,S,6-1,190,,85.0,,3,Weequahic,Newark,NJ,,Commit 4/15/2014,https://247sports.com/Player/alkadair-ports-42664/,"Newark, NJ",40.735657,-74.1723667
+2016,Recruit,Ahmir Mitchell,ATH,6-3,206,,90.0,,4,Cedar Creek,Egg Harbor City,NJ,,Enrolled,https://247sports.com/Player/ahmir-mitchell-37250/,"Egg Harbor City, NJ",39.5287282,-74.6479364
+2016,Recruit,Nick Krimin,OT,6-6,320,,87.0,,3,St Joseph,Metuchen,NJ,,Enrolled,https://247sports.com/Player/nick-krimin-36871/,"Metuchen, NJ",40.5431598,-74.3632049
+2016,Recruit,Solomon Manning,OLB,6-1,200,,87.0,,3,Colonia,Colonia,NJ,,Enrolled,https://247sports.com/Player/solomon-manning-78004/,"Colonia, NJ",40.5917149,-74.3142458
+2016,Recruit,Trey Sneed,RB,5-11,198,,86.0,,3,Fleming Island,Orange Park,FL,,Enrolled,https://247sports.com/Player/trey-sneed-37917/,"Orange Park, FL",30.1654707,-81.7016346
+2016,Recruit,KJ Gray,WR,6-2,189,,86.0,,3,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/kj-gray-71756/,"Jersey City, NJ",40.7215682,-74.047455
+2016,Recruit,Jonathan Pollock,OLB,6-1,222,,85.0,,3,Dr. Phillips,Orlando,FL,,Enrolled,https://247sports.com/Player/jonathan-pollock-23283/,"Orlando, FL",28.5421218,-81.379045
+2016,Recruit,Tylin Oden,PRO,6-5,180,,84.0,,3,Spring Hill,Columbia,TN,,Enrolled,https://247sports.com/Player/tylin-oden-77766/,"Columbia, TN",35.6148165,-87.0338464
+2016,Recruit,Mohamed Jabbie,WR,5-11,165,,84.0,,3,South Brunswick,Monmouth Junction,NJ,,Enrolled,https://247sports.com/Player/mohamed-jabbie-77017/,"Monmouth Junction, NJ",40.3840222,-74.533084
+2016,Recruit,Elorm Lumor,OLB,6-3,207,,84.0,,3,Milford Academy,New Berlin,NY,,Enrolled,https://247sports.com/Player/elorm-lumor-75750/,"New Berlin, NY",42.6239023,-75.3321363
+2016,Recruit,Mike Lonsdorf,OT,6-7,270,,84.0,,3,Immaculata,Somerville,NJ,,Enrolled,https://247sports.com/Player/mike-lonsdorf-87929/,"Somerville, NJ",40.5742696,-74.60988
+2016,Recruit,Kobe Marfo,CB,5-11,175,,84.0,,3,Reedley College,Reedley,CA,,Enrolled,https://247sports.com/Player/kobe-marfo-27559/,"Reedley, CA",36.5963906,-119.4511877
+2016,Recruit,Tyreek Williams,OLB,6-1,205,,83.0,,3,Timber Creek,Sicklerville,NJ,,Enrolled,https://247sports.com/Player/tyreek-williams-78515/,"Sicklerville, NJ",39.7173375,-74.9693329
+2016,Recruit,Rashawn Battle,OLB,6-3,220,,81.0,,3,Wallenpaupack Area,Hawley,PA,,Enrolled,https://247sports.com/Player/rashawn-battle-57615/,"Hawley, PA",41.4759224,-75.1821189
+2016,Recruit,Damon Hayes,CB,6-0,178,,81.0,,3,Dr. Henry Wise,Upper Marlboro,MD,,Enrolled,https://247sports.com/Player/damon-hayes-39193/,"Upper Marlboro, MD",38.8162451,-76.751708
+2016,Recruit,Julius Turner,DT,6-2,270,,80.0,,3,Meridian,Meridian,MS,,Enrolled,https://247sports.com/Player/julius-turner-77503/,"Meridian, MS",32.3643098,-88.703656
+2016,Recruit,Dacoven Bailey,WR,6-0,190,,80.0,,3,Pilot Point,Pilot Point,TX,,Enrolled,https://247sports.com/Player/dacoven-bailey-88523/,"Pilot Point, TX",33.3959396,-96.9591054
+2016,Recruit,Michael Maietti,OC,6-2,270,,79.0,,2,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/michael-maietti-81714/,"Ramsey, NJ",41.0573188,-74.1409771
+2016,Recruit,Ahmed Bah,WR,6-4,191,,78.0,,2,Grand Street,Brooklyn,NY,,Enrolled,https://247sports.com/Player/ahmed-bah-79853/,"Brooklyn, NY",40.6526006,-73.9497211
+2016,Recruit,Sam Howson,OC,6-5,280,,76.0,,2,Pope John XXIII,Sparta,NJ,,Enrolled,https://247sports.com/Player/sam-howson-83151/,"Sparta, NJ",41.0401567,-74.6310081
+2016,Recruit,Jason Griggs,DT,6-1,273,,,,0,Highland Park,Highland Park,NJ,,Enrolled,https://247sports.com/Player/jason-griggs-46057919/,"Highland Park, NJ",40.4997407,-74.4262011
+2016,Recruit,Aslan Pugh,RB,6-0,218,,,,0,Adirondack Christian School,Wilmington,NY,,Enrolled,https://247sports.com/Player/aslan-pugh-46057927/,"Wilmington, NY",44.3884389,-73.8153004
+2016,Recruit,Matthew Sportelli,LS,6-1,262,,,,0,Wayne Hills,Wayne,NJ,,Enrolled,https://247sports.com/Player/matthew-sportelli-46057931/,"Wayne, NJ",40.9491723,-74.2376802
+2016,Recruit,Prince Taylor,WR,5-10,191,,,,0,Hackensack,Hackensack,NJ,,Enrolled,https://247sports.com/Player/prince-taylor-46057934/,"Hackensack, NJ",40.8870781,-74.0410667
+2017,Recruit,Micah Clark,OT,6-5,265,,94.0,,4,St. John Vianney Regional,Holmdel,NJ,,Enrolled,https://247sports.com/Player/micah-clark-81346/,"Holmdel, NJ",40.3451095,-74.1840322
+2017,Recruit,Bo Melton,WR,5-11,175,,93.0,,4,Cedar Creek,Egg Harbor City,NJ,,Enrolled,https://247sports.com/Player/bo-melton-85926/,"Egg Harbor City, NJ",39.5287282,-74.6479364
+2017,Recruit,Tyshon Fogg,OLB,6-2,240,,87.0,,3,Calvert Hall College,Towson,MD,,Enrolled,https://247sports.com/Player/tyshon-fogg-81629/,"Towson, MD",39.3964591,-76.6148148
+2017,Recruit,Johnathan Lewis,DUAL,6-3,225,,85.0,,3,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/johnathan-lewis-83011/,"Jersey City, NJ",40.7215682,-74.047455
+2017,Recruit,Jamaal Beaty,OG,6-4,270,,85.0,,3,St. John Vianney Regional,Holmdel,NJ,,Enrolled,https://247sports.com/Player/jamaal-beaty-89203/,"Holmdel, NJ",40.3451095,-74.1840322
+2017,Recruit,Olakunle Fatukasi,OLB,6-1,205,,85.0,,3,Grand Street,Brooklyn,NY,,Enrolled,https://247sports.com/Player/olakunle-fatukasi-89358/,"Brooklyn, NY",40.6526006,-73.9497211
+2017,Recruit,Tim Barrow,CB,5-11,188,,84.0,,3,Tottenville,Staten Island,NY,,Enrolled,https://247sports.com/Player/tim-barrow-89451/,"Staten Island, NY",40.5834557,-74.1496048
+2017,Recruit,Brendan Bordner,SDE,6-5,240,,84.0,,3,Hilliard Bradley,Hilliard,OH,,Enrolled,https://247sports.com/Player/brendan-bordner-88911/,"Hilliard, OH",40.033814,-83.1596108
+2017,Recruit,Samuel Vretman,OT,6-6,295,,84.0,,3,Cheshire Academy,Cheshire,CT,,Enrolled,https://247sports.com/Player/samuel-vretman-85540/,"Cheshire, CT",41.4989355,-72.9009925
+2017,Recruit,C.J. Onyechi,OLB,6-1,215,,84.0,,3,West Orange,West Orange,NJ,,Enrolled,https://247sports.com/Player/cj-onyechi-89316/,"West Orange, NJ",40.7987113,-74.2390353
+2017,Recruit,Shameen Jones,WR,6-2,171,,84.0,,3,Cardinal Hayes,Bronx,NY,,Enrolled,https://247sports.com/Player/shameen-jones-88044/,"Bronx, NY",40.8466508,-73.8785937
+2017,Recruit,Raheem Blackshear,WR,5-9,170,,83.0,,3,Archbishop Wood,Warminster,PA,,Enrolled,https://247sports.com/Player/raheem-blackshear-89739/,"Warminster, PA",40.2067751,-75.0996159
+2017,Recruit,Mike Tverdov,WDE,6-4,230,,83.0,,3,Union,Union,NJ,,Enrolled,https://247sports.com/Player/mike-tverdov-81991/,"Union, NJ",40.6652251,-74.3045277
+2017,Recruit,Tyler Hayek,WR,6-4,170,,83.0,,3,Wayne Hills,Wayne,NJ,,Enrolled,https://247sports.com/Player/tyler-hayek-92775/,"Wayne, NJ",40.9491723,-74.2376802
+2017,Recruit,Jaohne Duggan,DT,6-1,270,,82.0,,3,Liberty,Bethlehem,PA,,Enrolled,https://247sports.com/Player/jaohne-duggan-81256/,"Bethlehem, PA",-1.45056,-48.4682453
+2017,Recruit,Owen Bowles,OC,6-4,270,,82.0,,3,Cedar Creek,Egg Harbor City,NJ,,Enrolled,https://247sports.com/Player/owen-bowles-83811/,"Egg Harbor City, NJ",39.5287282,-74.6479364
+2017,Recruit,Everett Wormley,WR,6-0,195,,82.0,,3,Burlington Township,Burlington,NJ,,Enrolled,https://247sports.com/Player/everett-wormley-83605/,"Burlington, NJ",39.9325409,-74.7226665
+2017,Recruit,Syhiem Simmons,OLB,6-1,200,,82.0,,3,Carver Montgomery,Montgomery,AL,,Enrolled,https://247sports.com/Player/syhiem-simmons-86984/,"Montgomery, AL",32.3777111,-86.3090775
+2017,Recruit,Edwin Lopez,S,5-11,160,,81.0,,3,Camden Eastside,Camden,NJ,,Enrolled,https://247sports.com/Player/edwin-lopez-86385/,"Camden, NJ",39.9448402,-75.1198911
+2017,Recruit,Elijah Barnwell,APB,5-10,200,,80.0,,3,Piscataway,Piscataway,NJ,,Enrolled,https://247sports.com/Player/elijah-barnwell-36424/,"Piscataway, NJ",40.5464326,-74.4660542
+2017,Recruit,Tijaun Mason,WDE,6-6,220,,80.0,,3,Trezevant,Memphis,TN,,Enrolled,https://247sports.com/Player/tijaun-mason-91377/,"Memphis, TN",35.146026,-90.0517786
+2017,Recruit,Naijee Jones,CB,5-11,190,,79.0,,2,Timber Creek,Sicklerville,NJ,,Enrolled,https://247sports.com/Player/naijee-jones-86426/,"Sicklerville, NJ",39.7173375,-74.9693329
+2017,Recruit,Travis Vokolek,TE,6-6,215,,79.0,,2,Kickapoo,Springfield,MO,,Enrolled,https://247sports.com/Player/travis-vokolek-46037651/,"Springfield, MO",37.2081729,-93.2922715
+2017,Recruit,Hunter Hayek,WR,5-10,160,,78.0,,2,Wayne Hills,Wayne,NJ,,Enrolled,https://247sports.com/Player/hunter-hayek-89326/,"Wayne, NJ",40.9491723,-74.2376802
+2017,Recruit,Brendan Devera,FB,6-1,240,,74.0,,2,Wayne Hills,Wayne,NJ,,Enrolled,https://247sports.com/Player/brendan-devera-89379/,"Wayne, NJ",40.9491723,-74.2376802
+2017,Recruit,Rani Abdulaziz,CB,5-10,185,,,,0,West Essex,Caldwell,NJ,,Enrolled,https://247sports.com/Player/rani-abdulaziz-46057913/,"Caldwell, NJ",40.8398218,-74.2765366
+2017,Recruit,Ryan Cassidy,LS,6-1,225,,,,0,Lenape,Medford,NJ,,Enrolled,https://247sports.com/Player/ryan-cassidy-46057915/,"Medford, NJ",39.9009472,-74.8234961
+2017,Recruit,Parker Day,CB,5-8,188,,,,0,Toms River North,Toms River,NJ,,Enrolled,https://247sports.com/Player/parker-day-46057916/,"Toms River, NJ",39.9528389,-74.196741
+2017,Recruit,Ryan Downer,WR,5-11,180,,,,0,Jackson Memorial,Jackson,NJ,,Enrolled,https://247sports.com/Player/ryan-downer-46057917/,"Jackson, NJ",39.7765048,-74.8623849
+2017,Recruit,Billy Taylor,LS,6-1,230,,,,0,Parsippany Hills,Morris Plains,NJ,,Enrolled,https://247sports.com/Player/billy-taylor-46057933/,"Morris Plains, NJ",40.8221007,-74.4811234
+2017,Recruit,Charles Zarzecki,OT,6-8,320,,,,0,Boonton,Boonton,NJ,,Enrolled,https://247sports.com/Player/charles-zarzecki-46046443/,"Boonton, NJ",40.9025989,-74.4070971
+2018,Recruit,Daevon Robinson,WR,6-4,210,,90.0,,4,Shawnee,Medford,NJ,,Enrolled,https://247sports.com/Player/daevon-robinson-46037850/,"Medford, NJ",39.9009472,-74.8234961
+2018,Recruit,Artur Sitkowski,PRO,6-5,215,,88.0,,3,IMG Academy,Bradenton,FL,,Enrolled,https://247sports.com/Player/artur-sitkowski-82608/,"Bradenton, FL",27.4989278,-82.5748194
+2018,Recruit,Isaih Pacheco,RB,5-11,190,,88.0,,3,Vineland South,Vineland,NJ,,Enrolled,https://247sports.com/Player/isaih-pacheco-46037943/,"Vineland, NJ",39.4862777,-75.0254256
+2018,Recruit,Jalen Jordan,WR,6-5,210,,87.0,,3,IMG Academy,Bradenton,FL,,Enrolled,https://247sports.com/Player/jalen-jordan-90976/,"Bradenton, FL",27.4989278,-82.5748194
+2018,Recruit,Zihir Lacewell,WR,6-3,190,,87.0,,3,Tottenville,Staten Island,NY,,Enrolled,https://247sports.com/Player/zihir-lacewell-92783/,"Staten Island, NY",40.5834557,-74.1496048
+2018,Recruit,Eddie Lewis,WR,6-0,179,,86.0,,3,Mater Dei,Middletown,NJ,,Enrolled,https://247sports.com/Player/eddie-lewis-84094/,"Middletown, NJ",40.3898188,-74.1162152
+2018,Recruit,Malik Dixon,S,6-3,215,,86.0,,3,Eastern Arizona College,Thatcher,AZ,,Enrolled,https://247sports.com/Player/malik-dixon-43012/,"Thatcher, AZ",32.8492323,-109.759247
+2018,Recruit,Nihym Anderson,OLB,6-2,227,,85.0,,3,Vineland South,Vineland,NJ,,Enrolled,https://247sports.com/Player/nihym-anderson-46038828/,"Vineland, NJ",39.4862777,-75.0254256
+2018,Recruit,Reggie Sutton,OG,6-4,278,,85.0,,3,Calvert Hall College,Towson,MD,,Enrolled,https://247sports.com/Player/reggie-sutton-46038460/,"Towson, MD",39.3964591,-76.6148148
+2018,Recruit,Paul Woods,WR,6-1,165,,85.0,,3,Canisius,Buffalo,NY,,Enrolled,https://247sports.com/Player/paul-woods-91185/,"Buffalo, NY",42.8864163,-78.8781493
+2018,Recruit,Raiqwon O'Neal,OT,6-5,270,,85.0,,3,Conway,Conway,SC,,Enrolled,https://247sports.com/Player/raiqwon-oneal-46040945/,"Conway, SC",33.8360035,-79.0478143
+2018,Recruit,Matthew Thomas,WDE,6-3,237,,85.0,,3,Midwood,Brooklyn,NY,,Enrolled,https://247sports.com/Player/matthew-thomas-46042242/,"Brooklyn, NY",40.6526006,-73.9497211
+2018,Recruit,Christian Izien,ATH,5-10,180,,85.0,,3,Erasmus Hall,Brooklyn,NY,,Enrolled,https://247sports.com/Player/christian-izien-46041227/,"Brooklyn, NY",40.6526006,-73.9497211
+2018,Recruit,Jalen Chatman,DUAL,6-0,180,,84.0,,3,Narbonne,Harbor City,CA,,Enrolled,https://247sports.com/Player/jalen-chatman-87506/,"Harbor City, CA",33.7911012,-118.3012604
+2018,Recruit,Deion Jennings,S,6-1,195,,84.0,,3,Timber Creek,Sicklerville,NJ,,Enrolled,https://247sports.com/Player/deion-jennings-46042487/,"Sicklerville, NJ",39.7173375,-74.9693329
+2018,Recruit,Avery Young,CB,6-1,195,,84.0,,3,Coatesville,Coatesville,PA,,Enrolled,https://247sports.com/Player/avery-young-46040867/,"Coatesville, PA",39.9831616,-75.8238355
+2018,Recruit,Kessawn Abraham,CB,5-10,170,,83.0,,3,Erasmus Hall,Brooklyn,NY,,Enrolled,https://247sports.com/Player/kessawn-abraham-46038485/,"Brooklyn, NY",40.6526006,-73.9497211
+2018,Recruit,Jarrett Paul,CB,6-1,197,,82.0,,3,Paramus Catholic,Paramus,NJ,,Enrolled,https://247sports.com/Player/jarrett-paul-85415/,"Paramus, NJ",40.9452911,-74.0735899
+2018,Recruit,Matt Rosso,OT,6-6,260,,82.0,,3,Pennsbury,Fairless Hills,PA,,Enrolled,https://247sports.com/Player/matt-rosso-46040072/,"Fairless Hills, PA",40.178142,-74.8564446
+2018,Recruit,Jamree Kromah,SDE,6-3,246,,80.0,,3,C.H. Flowers,Springdale,MD,,Enrolled,https://247sports.com/Player/jamree-kromah-46047585/,"Springdale, MD",38.933099,-76.8384153
+2018,Recruit,Zamir Mickens,S,5-11,175,,79.0,,2,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/zamir-mickens-46039255/,"Jersey City, NJ",40.7215682,-74.047455
+2018,Recruit,Robin Jutwreten,WDE,6-4,235,,79.0,,2,Sweden,Sweden,SWE,,Enrolled,https://247sports.com/Player/robin-jutwreten-46050205/,"Sweden, SWE",59.3587062,17.8736682
+2018,Recruit,Adam Korsak,P,6-1,190,,74.0,,2,ProKick Australia,Australia,AUS,,Enrolled,https://247sports.com/Player/adam-korsak-46047579/,"Australia, AUS",-27.7615274,151.9146809
+2018,Recruit,Johnny Yorey,OLB,5-10,215,,,,0,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/johnny-yorey-46057937/,"Jersey City, NJ",40.7215682,-74.047455
+2018,Recruit,Zach Sterr,P,6-2,230,,,,0,Absegami,Galloway,NJ,,Enrolled,https://247sports.com/Player/zach-sterr-46057932/,"Galloway, NJ",40.3688911,-74.1561383
+2018,Recruit,Freddie Recio,DT,6-2,275,,,,0,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/freddie-recio-46057929/,"Jersey City, NJ",40.7215682,-74.047455
+2018,Recruit,Jonathan Pimentel,TE,6-3,220,,,,0,Manalapan,Englishtown,NJ,,Enrolled,https://247sports.com/Player/jonathan-pimentel-46057926/,"Englishtown, NJ",40.2973319,-74.3582041
+2018,Recruit,Brandon Myers,FB,6-1,221,,,,0,Brdgwtr-raritn Sch,Bridgewater,NJ,,Enrolled,https://247sports.com/Player/brandon-myers-46057924/,"Bridgewater, NJ",40.5598127,-74.5517146
+2018,Recruit,Anthony Marshall,S,5-10,195,,,,0,Middlesex,Middlesex,NJ,,Enrolled,https://247sports.com/Player/anthony-marshall-46057923/,"Middlesex, NJ",40.4279708,-74.3963102
+2018,Recruit,Nick Johnston,P,5-10,189,,,,0,Fredonia,Fredonia,NY,,Enrolled,https://247sports.com/Player/nick-johnston-46057922/,"Fredonia, NY",42.4400476,-79.3314725
+2018,Recruit,Javis Hanks,CB,5-7,153,,,,0,Malcolm X Shabazz,Newark,NJ,,Enrolled,https://247sports.com/Player/javis-hanks-46042287/,"Newark, NJ",40.735657,-74.1723667
+2018,Recruit,Liam Flite,OT,6-5,280,,,,0,Highland Regional,Blackwood,NJ,,Enrolled,https://247sports.com/Player/liam-flite-46057918/,"Blackwood, NJ",39.799232,-75.0641699
+2018,Recruit,Austin Albericci,PRO,6-0,175,,,,0,Northern Valley Regional - Demarest,Demarest,NJ,,Enrolled,https://247sports.com/Player/austin-albericci-46057914/,"Demarest, NJ",40.9573205,-73.9634708
+2019,Recruit,Kay'ron Lynch-Adams,RB,5-10,198,,89.0,,3,Harding,Warren,OH,,Enrolled,https://247sports.com/Player/kayron-lynch-adams-46051728/,"Warren, OH",39.4203978,-84.180897
+2019,Recruit,Rayyan Buell,DT,6-2,280,,88.0,,3,Hornell,Hornell,NY,,Enrolled,https://247sports.com/Player/rayyan-buell-46056218/,"Hornell, NY",42.3278477,-77.6611025
+2019,Recruit,Mohamed Toure,ILB,6-2,213,,87.0,,3,Pleasantville,Pleasantville,NJ,,Enrolled,https://247sports.com/Player/mohamed-toure-46047722/,"Pleasantville, NJ",39.3898388,-74.5240422
+2019,Recruit,Zukudo Igwenagu,OLB,6-4,216,,86.0,,3,Worcester Academy,Worcester,MA,,Enrolled,https://247sports.com/Player/zukudo-igwenagu-46052130/,"Worcester, MA",42.2625621,-71.8018877
+2019,Recruit,Brian Ugwu,OLB,6-2,222,,86.0,,3,Hillside,Hillside,NJ,,Enrolled,https://247sports.com/Player/brian-ugwu-46051457/,"Hillside, NJ",40.701213,-74.2301459
+2019,Recruit,Stanley King,WR,6-5,175,,86.0,,3,Camden Eastside,Camden,NJ,,Enrolled,https://247sports.com/Player/stanley-king-88590/,"Camden, NJ",39.9448402,-75.1198911
+2019,Recruit,Aaron Young,RB,5-10,190,,86.0,,3,Coatesville,Coatesville,PA,,Enrolled,https://247sports.com/Player/aaron-young-46043199/,"Coatesville, PA",39.9831616,-75.8238355
+2019,Recruit,Isaiah Washington,WR,6-3,192,,85.0,,3,Trinity Christian Academy,Jacksonville,FL,,Enrolled,https://247sports.com/Player/isaiah-washington-46039562/,"Jacksonville, FL",30.3262247,-81.6579179
+2019,Recruit,Donald Williams,CB,6-1,180,,85.0,,3,Camden,Camden,NJ,,Enrolled,https://247sports.com/Player/donald-williams-46052021/,"Camden, NJ",39.9448402,-75.1198911
+2019,Recruit,Devin Baldwin,SDE,6-5,260,,84.0,,3,Southfield,Southfield,MI,,Enrolled,https://247sports.com/Player/devin-baldwin-46046105/,"Southfield, MI",42.4733689,-83.2218731
+2019,Recruit,Malachi Burby,DT,6-2,270,,84.0,,3,Cheshire Academy,Cheshire,CT,,Enrolled,https://247sports.com/Player/malachi-burby-46038557/,"Cheshire, CT",41.4989355,-72.9009925
+2019,Recruit,C.J. Hanson,OG,6-4,295,,84.0,,3,St. John Vianney Regional,Holmdel,NJ,,Enrolled,https://247sports.com/Player/cj-hanson-46049448/,"Holmdel, NJ",40.3451095,-74.1840322
+2019,Recruit,T.J. Robinson,S,6-3,181,,83.0,,3,Riverview,Riverview,FL,,Enrolled,https://247sports.com/Player/tj-robinson-46052128/,"Riverview, FL",27.871197,-82.3269883
+2019,Recruit,Omari Cooper,OT,6-5,300,,83.0,,3,San Diego Mesa College,San Diego,CA,,Enrolled,https://247sports.com/Player/omari-cooper-46058097/,"San Diego, CA",32.7174202,-117.162772
+2019,Recruit,Cole Snyder,PRO,6-0.5,193,,82.0,,3,Southwestern Senior,Jamestown,NY,,Enrolled,https://247sports.com/Player/cole-snyder-46051732/,"Jamestown, NY",42.0965167,-79.2380322
+2019,Recruit,Darius Gooden,CB,6-2,195,,81.0,,3,West Side,Newark,NJ,,Enrolled,https://247sports.com/Player/darius-gooden-46076670/,"Newark, NJ",40.735657,-74.1723667
+2019,Recruit,Anton Oskarsson,OT,6-5,270,,81.0,,3,Sweden,Sweden,SWE,,Enrolled,https://247sports.com/Player/anton-oskarsson-46042393/,"Sweden, SWE",59.3587062,17.8736682
+2019,Recruit,Chris Conti,OLB,6-2,215,,80.0,,3,DePaul Catholic,Wayne,NJ,,Enrolled,https://247sports.com/Player/chris-conti-46052843/,"Wayne, NJ",40.9491723,-74.2376802
+2019,Recruit,Monterio Hunt,WR,6-1,185,,80.0,,3,Northwest Mississippi C.C.,Senatobia,MS,,Enrolled,https://247sports.com/Player/monterio-hunt-81364/,"Senatobia, MS",34.6187807,-89.9646282
+2019,Recruit,Christian Dremel,WR,5-9,180,,,,0,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/christian-dremel-46116916/,"Ramsey, NJ",41.0573188,-74.1409771
+2019,Recruit,Zamar Wise,PRO,6-3,205,,83.0,,3,Barringer,Newark,NJ,,Commit 9/30/2017,https://247sports.com/Player/zamar-wise-92170/,"Newark, NJ",40.735657,-74.1723667
+2020,Recruit,Chris Long,ATH,6-0,160,,90.0,,4,Willingboro,Willingboro,NJ,,Enrolled,https://247sports.com/Player/chris-long-46055157/,"Willingboro, NJ",40.0289423,-74.8808221
+2020,Recruit,Tyreem Powell,ATH,6-4,205,,88.0,,3,Vineland South,Vineland,NJ,,Enrolled,https://247sports.com/Player/tyreem-powell-46054982/,"Vineland, NJ",39.4862777,-75.0254256
+2020,Recruit,Robert Longerbeam,ATH,6-0,160,,87.0,,3,T.C. Williams,Alexandria,VA,,Enrolled,https://247sports.com/Player/robert-longerbeam-46083367/,"Alexandria, VA",38.8051095,-77.0470229
+2020,Recruit,Tahjay Moore,WDE,6-6,220,,87.0,,3,New Brunswick,New Brunswick,NJ,,Enrolled,https://247sports.com/Player/tahjay-moore-46086973/,"New Brunswick, NJ",40.4936119,-74.4436416
+2020,Recruit,Rene Konga,SDE,6-4,240,,87.0,,3,Colonel By Secondary,Ottawa,ON,,Enrolled,https://247sports.com/Player/rene-konga-46098070/,"Ottawa, ON",45.4208777,-75.6901106
+2020,Recruit,Max Melton,WR,5-11,165,,86.0,,3,Cedar Creek,Egg Harbor City,NJ,,Enrolled,https://247sports.com/Player/max-melton-46047378/,"Egg Harbor City, NJ",39.5287282,-74.6479364
+2020,Recruit,Elijuwan Mack,S,6-0,185,,86.0,,3,St. Joseph Regional,Montvale,NJ,,Enrolled,https://247sports.com/Player/elijuwan-mack-46058714/,"Montvale, NJ",41.0407563,-74.0288633
+2020,Recruit,Evan Simon,PRO,6-2,200,,85.0,,3,Manheim Central,Manheim,PA,,Enrolled,https://247sports.com/Player/evan-simon-46050571/,"Manheim, PA",40.1637359,-76.3952429
+2020,Recruit,Isaiah Wright,SDE,6-5,275,,85.0,,3,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/isaiah-wright-46057234/,"Jersey City, NJ",40.7215682,-74.047455
+2020,Recruit,Wesley Bailey,WDE,6-5,225,,85.0,,3,Clearwater Academy International,Clearwater,FL,,Enrolled,https://247sports.com/Player/wesley-bailey-46053643/,"Clearwater, FL",27.9658533,-82.8001026
+2020,Recruit,Tunde Fatukasi,OT,6-4,295,,85.0,,3,Erasmus Hall,Brooklyn,NY,,Enrolled,https://247sports.com/Player/tunde-fatukasi-46083819/,"Brooklyn, NY",40.6526006,-73.9497211
+2020,Recruit,Cedrice Paillant,OT,6-5,305,,85.0,,3,Monroe College,New Rochelle,NY,,Enrolled,https://247sports.com/Player/cedrice-paillant-46097220/,"New Rochelle, NY",40.9115386,-73.7826363
+2020,Recruit,Jamier Wright-Collins,OLB,6-3,200,,84.0,,3,John F. Kennedy,Paterson,NJ,,Enrolled,https://247sports.com/Player/jamier-wright-collins-46084736/,"Paterson, NJ",40.9167654,-74.171811
+2020,Recruit,Bryan Felter,OG,6-2.5,300,,84.0,,3,Bergen Catholic,Oradell,NJ,,Enrolled,https://247sports.com/Player/bryan-felter-46035808/,"Oradell, NJ",40.9543943,-74.0308504
+2020,Recruit,Troy Rainey,DT,6-5,300,,83.0,,3,Harding,Bridgeport,CT,,Enrolled,https://247sports.com/Player/troy-rainey-46094980/,"Bridgeport, CT",41.1792695,-73.1887863
+2020,Recruit,Victor Konopka,SDE,6-7,245,,83.0,,3,Blair Academy,Blairstown,NJ,,Enrolled,https://247sports.com/Player/victor-konopka-46086870/,"Blairstown, NJ",40.9831598,-74.9602972
+2020,Recruit,Jessie Parson III,APB,5-10,165,,83.0,,3,New Rochelle,New Rochelle,NY,,Enrolled,https://247sports.com/Player/jessie-parson-iii-46099265/,"New Rochelle, NY",40.9115386,-73.7826363
+2020,Recruit,Ahmirr Robinson,WR,6-1,179,,82.0,,3,Union,Union,NJ,,Enrolled,https://247sports.com/Player/ahmirr-robinson-46079294/,"Union, NJ",40.6652251,-74.3045277
+2020,Recruit,Shawn Collins,TE,6-5,205,,82.0,,3,Montclair,Montclair,NJ,,Enrolled,https://247sports.com/Player/shawn-collins-46083950/,"Montclair, NJ",40.8164458,-74.2210643
+2020,Recruit,Kyle Monangai,RB,5-8.5,203,,80.0,,3,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/kyle-monangai-46058749/,"Ramsey, NJ",41.0573188,-74.1409771
+2020,Recruit,Kamar Missouri,DT,6-5,255,,,,0,Mergenthaler Vocational,Pikesville,MD,,Enrolled,https://247sports.com/Player/kamar-missouri-46101425/,"Pikesville, MD",39.385227,-76.7080456
+2020,Recruit,Jack del Rio,OLB,6-3,215,,82.0,,3,Clearwater Central Catholic,Clearwater,FL,,Signed,https://247sports.com/Player/jack-del-rio-46080045/,"Clearwater, FL",27.9658533,-82.8001026
+2021,Recruit,Alijah Clark,CB,6-2,180,,94.0,,4,Camden,Camden,NJ,,Enrolled,https://247sports.com/Player/alijah-clark-46082878/,"Camden, NJ",39.9448402,-75.1198911
+2021,Recruit,Khayri Banton,OLB,6-2,220,,92.0,,4,West Side,Newark,NJ,,Enrolled,https://247sports.com/Player/khayri-banton-46084825/,"Newark, NJ",40.735657,-74.1723667
+2021,Recruit,Gavin Wimsatt,QB,6-3,200,,91.0,,4,Owensboro,Owensboro,KY,,Enrolled,https://247sports.com/Player/gavin-wimsatt-46096758/,"Owensboro, KY",37.7742152,-87.1133304
+2021,Recruit,Shaquan Loyal,CB,6-0,175,,90.0,,4,West Side,Newark,NJ,,Enrolled,https://247sports.com/Player/shaquan-loyal-46098030/,"Newark, NJ",40.735657,-74.1723667
+2021,Recruit,Carnell Davis,WR,6-1,170,,88.0,,3,Eau Gallie,Melbourne,FL,,Enrolled,https://247sports.com/Player/carnell-davis-46079305/,"Melbourne, FL",28.0785034,-80.6077908
+2021,Recruit,Jordan Thompson,ATH,6-3,225,,88.0,,3,Parsippany Hills,Morris Plains,NJ,,Enrolled,https://247sports.com/Player/jordan-thompson-46099860/,"Morris Plains, NJ",40.8221007,-74.4811234
+2021,Recruit,Cam'Ron Stewart,DL,6-4,225,,87.0,,3,Governor Mifflin,Reading,PA,,Enrolled,https://247sports.com/Player/camron-stewart-46086810/,"Reading, PA",40.335345,-75.9279495
+2021,Recruit,Al-Shadee Salaam,RB,5-9,170,,87.0,,3,East Orange Campus,East Orange,NJ,,Enrolled,https://247sports.com/Player/al-shadee-salaam-46098505/,"East Orange, NJ",40.7642404,-74.215011
+2021,Recruit,Kyonte Hamilton,ATH,6-5,230,,87.0,,3,Georgetown Preparatory,North Bethesda,MD,,Enrolled,https://247sports.com/Player/kyonte-hamilton-46100132/,"North Bethesda, MD",39.04065,-77.1233873
+2021,Recruit,Desmond Igbinosun,S,6-3,195,,86.0,,3,Union,Union,NJ,,Enrolled,https://247sports.com/Player/desmond-igbinosun-46096347/,"Union, NJ",40.6652251,-74.3045277
+2021,Recruit,Tyler Needham,OT,6-4,265,,86.0,,3,William Penn Charter,Philadelphia,PA,,Enrolled,https://247sports.com/Player/tyler-needham-46096361/,"Philadelphia, PA",39.9527237,-75.1635262
+2021,Recruit,Ryan Keeler,SDE,6-5,250,,86.0,,3,Nazareth Academy,La Grange Park,IL,,Enrolled,https://247sports.com/Player/ryan-keeler-46052654/,"La Grange Park, IL",41.8333646,-87.8677324
+2021,Recruit,Kevin Toth Jr.,OT,6-6,270,,86.0,,3,Hudson,Hudson,OH,,Enrolled,https://247sports.com/Player/kevin-toth-jr-46100137/,"Hudson, OH",41.240056,-81.440667
+2021,Recruit,Don Munnerlyn,TE,6-5,205,,86.0,,3,Independence,Columbus,OH,,Enrolled,https://247sports.com/Player/don-munnerlyn-46100188/,"Columbus, OH",39.9622601,-83.0007065
+2021,Recruit,Keshon Griffin,WDE,6-4,220,,85.0,,3,St. Joseph,Hammonton,NJ,,Enrolled,https://247sports.com/Player/keshon-griffin-46084233/,"Hammonton, NJ",39.6366543,-74.8027651
+2021,Recruit,Max Patterson,WR,5-11,165,,85.0,,3,Yorktown,Arlington,VA,,Enrolled,https://247sports.com/Player/max-patterson-46099742/,"Arlington, VA",38.8769326,-77.0893094
+2021,Recruit,Henry Hughes Jr.,WDE,6-5,228,,85.0,,3,Tampa Bay Tech,Tampa,FL,,Enrolled,https://247sports.com/Player/henry-hughes-jr-46098168/,"Tampa, FL",27.9449854,-82.4583107
+2021,Recruit,Zaire Angoy,DL,6-4,310,,84.0,,3,Irvington,Irvington,NJ,,Enrolled,https://247sports.com/Player/zaire-angoy-46083268/,"Irvington, NJ",40.7264091,-74.2289491
+2021,Recruit,Austin Dean,LB,6-2,215,,82.0,,3,Berkeley Prep,Tampa,FL,,Enrolled,https://247sports.com/Player/austin-dean-46096401/,"Tampa, FL",27.9449854,-82.4583107
+2021,Recruit,Brayden Fox,WR,6-3,200,,81.0,,3,Archbishop Hoban,Akron,OH,,Enrolled,https://247sports.com/Player/brayden-fox-46085352/,"Akron, OH",41.083064,-81.518485
+2021,Recruit,Gus Zilinskas,IOL,6-3,263,,81.0,,3,Cherry Creek,Englewood,CO,,Enrolled,https://247sports.com/Player/gus-zilinskas-46098513/,"Englewood, CO",39.6482059,-104.9879641
+2021,Recruit,Zack Taylor,LS,6-0,220,,78.0,,2,Parsippany Hills,Morris Plains,NJ,,Enrolled,https://247sports.com/Player/zack-taylor-46101531/,"Morris Plains, NJ",40.8221007,-74.4811234
+2022,Recruit,Moses Walker,LB,6-2,220,,91.0,,4,Erasmus Hall,Brooklyn,NY,,Enrolled,https://247sports.com/Player/moses-walker-46084821/,"Brooklyn, NY",40.6526006,-73.9497211
+2022,Recruit,Thomas Amankwaa,CB,6-0,180,,91.0,,4,Hillsborough,Hillsborough,NJ,,Enrolled,https://247sports.com/Player/thomas-amankwaa-46103897/,"Hillsborough, NJ",40.5052296,-74.6732941
+2022,Recruit,Anthony Johnson,LB,6-1,230,,91.0,,4,Neumann Goretti,Philadelphia,PA,,Enrolled,https://247sports.com/Player/anthony-johnson-46077103/,"Philadelphia, PA",39.9527237,-75.1635262
+2022,Recruit,Jacob Allen,OT,6-6,270,,90.0,,4,Hun School,Princeton,NJ,,Enrolled,https://247sports.com/Player/jacob-allen-46058503/,"Princeton, NJ",40.3496953,-74.6597376
+2022,Recruit,DJ Allen,DL,6-7,225,,89.0,,3,Leo,Leo,IN,,Enrolled,https://247sports.com/Player/dj-allen-46112018/,"Leo, IN",31.8839167,78.5935199
+2022,Recruit,Sam Brown,RB,6-1,195,,89.0,,3,La Salle College,Wyndmoor,PA,,Enrolled,https://247sports.com/Player/sam-brown-46085670/,"Wyndmoor, PA",40.0853435,-75.1940207
+2022,Recruit,Rashad Rochelle,WR,5-11,170,,89.0,,3,Springfield,Springfield,IL,,Enrolled,https://247sports.com/Player/rashad-rochelle-46058583/,"Springfield, IL",39.7990175,-89.6439575
+2022,Recruit,Kwabena Asamoah,IOL,6-4,295,,89.0,,3,Pickerington Central,Pickerington,OH,,Enrolled,https://247sports.com/Player/kwabena-asamoah-46104001/,"Pickerington, OH",39.8842304,-82.7535049
+2022,Recruit,Fitzroy Ledgister,WR,6-2,186,,88.0,,3,St. Peter's Prep,Jersey City,NJ,,Enrolled,https://247sports.com/Player/fitzroy-ledgister-46131519/,"Jersey City, NJ",40.7215682,-74.047455
+2022,Recruit,Kenny Fletcher Jr.,Edge,6-4,215,,87.0,,3,Delran,Delran,NJ,,Enrolled,https://247sports.com/Player/kenny-fletcher-jr-46099921/,"Delran, NJ",40.0154905,-74.9550416
+2022,Recruit,Zilan Williams,CB,6-2,175,,86.0,,3,DeMatha Catholic,Hyattsville,MD,,Enrolled,https://247sports.com/Player/zilan-williams-46113054/,"Hyattsville, MD",38.9529442,-76.9408647
+2022,Recruit,Joe De Croce,OT,6-6,290,,86.0,,3,Northern Valley Regional - Demarest,Demarest,NJ,,Enrolled,https://247sports.com/Player/joe-de-croce-46103411/,"Demarest, NJ",40.9573205,-73.9634708
+2022,Recruit,Q'yaeir Price,DL,6-2,255,,86.0,,3,DePaul Catholic,Wayne,NJ,,Enrolled,https://247sports.com/Player/qyaeir-price-46100328/,"Wayne, NJ",40.9491723,-74.2376802
+2022,Recruit,Taj White,OT,6-5,280,,86.0,,3,Hudson Catholic,Jersey City,NJ,,Enrolled,https://247sports.com/Player/taj-white-46101881/,"Jersey City, NJ",40.7215682,-74.047455
+2022,Recruit,Emir Stinette,IOL,6-5,380,,86.0,,3,Imhotep Institute,Philadelphia,PA,,Enrolled,https://247sports.com/Player/emir-stinette-46098879/,"Philadelphia, PA",39.9527237,-75.1635262
+2022,Recruit,Mike Higgins,TE,6-6,230,,85.0,,3,Blair Academy,Blairstown,NJ,,Enrolled,https://247sports.com/Player/mike-higgins-46127782/,"Blairstown, NJ",40.9831598,-74.9602972
+2022,Recruit,Nelson Monegro,OT,6-7,260,,85.0,,3,Union City,Union City,NJ,,Enrolled,https://247sports.com/Player/nelson-monegro-46102035/,"Union City, NJ",40.7795455,-74.0237512
+2022,Recruit,Dantae Chin,IOL,6-4,290,,84.0,,3,Cypress Bay,Fort Lauderdale,FL,,Enrolled,https://247sports.com/Player/dantae-chin-46128618/,"Fort Lauderdale, FL",26.1223084,-80.1433786
+2022,Recruit,Brad Harris,IOL,6-4,255,,80.0,,3,St. Joseph's Prep,Philadelphia,PA,,Enrolled,https://247sports.com/Player/brad-harris-46080481/,"Philadelphia, PA",39.9527237,-75.1635262
+2022,Recruit,Dariel Djabome,LB,6-2,220,,,,0,Canada Prep Football Academy,St. Catharines,ON,,Enrolled,https://247sports.com/Player/dariel-djabome-46135213/,"St. Catharines, ON",43.1579812,-79.2441003
+2022,Recruit,Bryce Kissi,WR,6-0,175,,,,0,Abby Kelley Foster Charter Public School,Worcester,MA,,Enrolled,https://247sports.com/Player/bryce-kissi-46145608/,"Worcester, MA",42.2625621,-71.8018877
+2022,Recruit,Timmy Hinspeter,LB,6-1,210,,,,0,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/timmy-hinspeter-46154219/,"Ramsey, NJ",41.0573188,-74.1409771
+2022,Recruit,David Onuoha,Edge,6-1,205,,,,0,Matawan Regional,Matawan,NJ,,Enrolled,https://247sports.com/Player/david-onuoha-46154470/,"Matawan, NJ",40.41483,-74.2295891
+2022,Recruit,Ryan Russo,LB,6-2,195,,,,0,Bishop McDevitt,Harrisburg,PA,,Enrolled,https://247sports.com/Player/ryan-russo-46162780/,"Harrisburg, PA",40.2663107,-76.8861122
+2022,Recruit,Sam Gadie,Edge,6-3,235,,,,0,Trenton Central,Trenton,NJ,,Enrolled,https://247sports.com/Player/sam-gadie-46166066/,"Trenton, NJ",40.2203074,-74.7659
+2022,Recruit,Amarion Brown,WR,6-3,175,,88.0,,3,Martin County,Stuart,FL,,Signed,https://247sports.com/Player/amarion-brown-46100940/,"Stuart, FL",27.197983,-80.2519175
+2023,Recruit,JaSire Peterson,OT,6-4,270,,90.0,,4,Union City,Union City,NJ,,Enrolled,https://247sports.com/Player/jasire-peterson-46113075/,"Union City, NJ",40.7795455,-74.0237512
+2023,Recruit,Djibril Rahman,Edge,6-4,245,,89.0,,3,Cegep du Vieux,Montreal,QC,,Enrolled,https://247sports.com/Player/djibril-rahman-46136348/,"Montreal, QC",45.5031824,-73.5698065
+2023,Recruit,Ian Strong,S,6-4,190,,89.0,,3,St. Anthony's,Long Island City,NY,,Enrolled,https://247sports.com/Player/ian-strong-46134274/,"Long Island City, NY",40.7455316,-73.9484995
+2023,Recruit,Bo Mascoe,CB,5-10.5,165,,88.0,,3,Osceola,Kissimmee,FL,,Enrolled,https://247sports.com/Player/bo-mascoe-46116922/,"Kissimmee, FL",28.2918995,-81.4075838
+2023,Recruit,Famah Toure,WR,6-3,195,,88.0,,3,Irvington,Irvington,NJ,,Enrolled,https://247sports.com/Player/famah-toure-46098012/,"Irvington, NJ",40.7264091,-74.2289491
+2023,Recruit,Nick Oliveira,OT,6-5,280,,88.0,,3,Clearview,Mullica Hill,NJ,,Enrolled,https://247sports.com/Player/nick-oliveira-46131362/,"Mullica Hill, NJ",39.728986,-75.2187865
+2023,Recruit,Abram Wright,LB,6-2,225,,87.0,,3,Fleming Island,Orange Park,FL,,Enrolled,https://247sports.com/Player/abram-wright-46131041/,"Orange Park, FL",30.1654707,-81.7016346
+2023,Recruit,John Stone,IOL,6-3,285,,87.0,,3,Washington Township,Sewell,NJ,,Enrolled,https://247sports.com/Player/john-stone-46130525/,"Sewell, NJ",39.770683,-75.1438863
+2023,Recruit,Jesse Ofurie,WR,6-2,195,,87.0,,3,St. John's Prep,Danvers,MA,,Enrolled,https://247sports.com/Player/jesse-ofurie-46130886/,"Danvers, MA",42.5664984,-70.9362957
+2023,Recruit,Davoun Fuse,ATH,6-4,190,,87.0,,3,Washington,Washington,PA,,Enrolled,https://247sports.com/Player/davoun-fuse-46131420/,"Washington, PA",40.1943798,-80.2541251
+2023,Recruit,Logan Blake,TE,6-6,215,,86.0,,3,Hun School,Princeton,NJ,,Enrolled,https://247sports.com/Player/logan-blake-46131561/,"Princeton, NJ",40.3496953,-74.6597376
+2023,Recruit,Dominic Rivera,OT,6-7,310,,86.0,,3,Olmsted Falls,Olmsted Falls,OH,,Enrolled,https://247sports.com/Player/dominic-rivera-46129625/,"Olmsted Falls, OH",41.375049,-81.9081937
+2023,Recruit,Deondre Johnson,ATH,6-8,200,,86.0,,3,Newburgh Free Academy,Newburgh,NY,,Enrolled,https://247sports.com/Player/deondre-johnson-46133811/,"Newburgh, NY",41.5000767,-74.0098299
+2023,Recruit,Dylan Braithwaite,WR,5-10,175,,86.0,,3,Holy Trinity Diocesan,Hicksville,NY,,Enrolled,https://247sports.com/Player/dylan-braithwaite-46131224/,"Hicksville, NY",40.7695303,-73.5293246
+2023,Recruit,Ajani Sheppard,QB,6-2,230,,86.0,,3,Iona Prep,New Rochelle,NY,,Enrolled,https://247sports.com/Player/ajani-sheppard-46128992/,"New Rochelle, NY",40.9115386,-73.7826363
+2023,Recruit,Sage Clawges,WR,6-4,185,,85.0,,3,St. Thomas More,Oakdale,CT,,Enrolled,https://247sports.com/Player/sage-clawges-46132025/,"Oakdale, CT",41.4661017,-72.1578511
+2023,Recruit,Mozell Williams,OT,6-5,340,,84.0,,3,Hawthorne,Hawthorne,FL,,Enrolled,https://247sports.com/Player/mozell-williams-46129778/,"Hawthorne, FL",29.5918856,-82.0869578
+2023,Recruit,Ja'shon Benjamin,RB,5-8,194,,84.0,,3,Pahokee,Pahokee,FL,,Enrolled,https://247sports.com/Player/jashon-benjamin-46114284/,"Pahokee, FL",26.8200607,-80.6653351
+2023,Recruit,Vilay Nakkoun Jr.,ATH,5-11,175,,84.0,,3,Orlando Christian Prep,Orlando,FL,,Enrolled,https://247sports.com/Player/vilay-nakkoun-jr-46133452/,"Orlando, FL",28.5421218,-81.379045
+2023,Recruit,Jake Eldridge,LS,6-0,190,,80.0,,3,IMG Academy,Bradenton,FL,,Enrolled,https://247sports.com/Player/jake-eldridge-46097440/,"Bradenton, FL",27.4989278,-82.5748194
+2023,Recruit,Colin O'Sullivan,QB,5-11,170,,,,0,Upper Dublin,Fort Washington,PA,,Enrolled,https://247sports.com/Player/colin-osullivan-46111888/,"Fort Washington, PA",40.1478532,-75.1897243
+2024,Recruit,Antonio White Jr.,WR,6-2.5,170,,91.0,,4,Parkview,Lilburn,GA,,Enrolled,https://247sports.com/Player/antonio-white-jr-46117444/,"Lilburn, GA",33.8901036,-84.1429719
+2024,Recruit,Gabe Winowich,ATH,6-1,215,,90.0,,4,Notre Dame,Lawrenceville,NJ,,Enrolled,https://247sports.com/Player/gabe-winowich-46130447/,"Lawrenceville, NJ",40.3009876,-74.7373728
+2024,Recruit,AJ Surace,QB,6-1.5,210,,89.0,,3,Notre Dame,Lawrenceville,NJ,,Enrolled,https://247sports.com/Player/aj-surace-46131426/,"Lawrenceville, NJ",40.3009876,-74.7373728
+2024,Recruit,KJ Duff,TE,6-5,207,,89.0,,3,St. Anthony's,Melville,NY,,Enrolled,https://247sports.com/Player/kj-duff-46129714/,"Melville, NY",40.7835914,-73.4075575
+2024,Recruit,Kevin Levy,ATH,6-0,170,,88.0,,3,Cardinal Newman,West Palm Beach,FL,,Enrolled,https://247sports.com/Player/kevin-levy-46133534/,"West Palm Beach, FL",26.715364,-80.0532942
+2024,Recruit,Sam Robinson,LB,6-3,210,,88.0,,3,Tallahassee Lincoln,Tallahassee,FL,,Enrolled,https://247sports.com/Player/sam-robinson-46136291/,"Tallahassee, FL",30.4380832,-84.2809332
+2024,Recruit,Kaj Sanders,ATH,6-1,185,,88.0,,3,Bergen Catholic,Oradell,NJ,,Enrolled,https://247sports.com/Player/kaj-sanders-46122961/,"Oradell, NJ",40.9543943,-74.0308504
+2024,Recruit,Ben Black,WR,6-0,180,,87.0,,3,Mallard Creek,Charlotte,NC,,Enrolled,https://247sports.com/Player/ben-black-46135919/,"Charlotte, NC",35.2272086,-80.8430827
+2024,Recruit,Sam Pilof,LB,6-3,210,,87.0,,3,Middleton,Middleton,WI,,Enrolled,https://247sports.com/Player/sam-pilof-46132455/,"Middleton, WI",43.0962919,-89.5119565
+2024,Recruit,Carter Kadow,OT,6-6,260,,87.0,,3,Middleton,Middleton,WI,,Enrolled,https://247sports.com/Player/carter-kadow-46142164/,"Middleton, WI",43.0962919,-89.5119565
+2024,Recruit,Aaris Bethea,DL,6-2,250,,87.0,,3,Erasmus Hall,Brooklyn,NY,,Enrolled,https://247sports.com/Player/aaris-bethea-46111859/,"Brooklyn, NY",40.6526006,-73.9497211
+2024,Recruit,Antwan Raymond,RB,5-11,195,,87.0,,3,Clearwater Academy International,Clearwater,FL,,Enrolled,https://247sports.com/Player/antwan-raymond-46140407/,"Clearwater, FL",27.9658533,-82.8001026
+2024,Recruit,Tycoolhill Luman,DL,6-3,239,,86.0,,3,Miami Norland,Miami,FL,,Enrolled,https://247sports.com/Player/tycoolhill-luman-46129569/,"Miami, FL",25.7741566,-80.1935973
+2024,Recruit,MJ Johnson,LB,6-2,220,,86.0,,3,West Bloomfield,West Bloomfield,MI,,Enrolled,https://247sports.com/Player/mj-johnson-46132198/,"West Bloomfield, MI",42.5684073,-83.3740333
+2024,Recruit,DK Gilley,S,6-2,190,,86.0,,3,University Christian,Jacksonville,FL,,Enrolled,https://247sports.com/Player/dk-gilley-46141409/,"Jacksonville, FL",30.3262247,-81.6579179
+2024,Recruit,Kenny Jones,OT,6-3.5,275,,86.0,,3,Delran,Delran,NJ,,Enrolled,https://247sports.com/Player/kenny-jones-46125824/,"Delran, NJ",40.0154905,-74.9550416
+2024,Recruit,Isaiah Crumpler,WR,6-0,175,,86.0,,3,D H Conley,Greenville,NC,,Enrolled,https://247sports.com/Player/isaiah-crumpler-46117529/,"Greenville, NC",35.613224,-77.3724593
+2024,Recruit,Matt Ogunniyi,WR,6-5,205,,86.0,,3,C.H. Flowers,Springdale,MD,,Enrolled,https://247sports.com/Player/matt-ogunniyi-46138650/,"Springdale, MD",38.933099,-76.8384153
+2024,Recruit,Noah Shaw,S,6-2,195,,86.0,,3,Asheville,Asheville,NC,,Enrolled,https://247sports.com/Player/noah-shaw-46136196/,"Asheville, NC",35.595363,-82.5508407
+2024,Recruit,Elijah King,Edge,6-6,230,,86.0,,3,Gahanna Lincoln,Columbus,OH,,Enrolled,https://247sports.com/Player/elijah-king-46137076/,"Columbus, OH",39.9622601,-83.0007065
+2024,Recruit,Raynor Andrews,OT,6-5.5,315,,85.0,,3,Miami Norland,Miami,FL,,Enrolled,https://247sports.com/Player/raynor-andrews-46140187/,"Miami, FL",25.7741566,-80.1935973
+2024,Recruit,Tyclean Luman,Edge,6-3,250,,85.0,,3,Miami Norland,Miami,FL,,Enrolled,https://247sports.com/Player/tyclean-luman-46129568/,"Miami, FL",25.7741566,-80.1935973
+2024,Recruit,Edd Guerrier,RB,5-7,192,,85.0,,3,Port Charlotte,Port Charlotte,FL,,Enrolled,https://247sports.com/Player/edd-guerrier-46140137/,"Port Charlotte, FL",26.9761707,-82.0906448
+2024,Recruit,Monte Keener,TE,6-6,215,,85.0,,3,Linden,Linden,MI,,Enrolled,https://247sports.com/Player/monte-keener-46137611/,"Linden, MI",42.8146748,-83.7821563
+2024,Recruit,Farell Gnago,DL,6-3,250,,85.0,,3,College Andre-Grasset,Montreal,QC,,Enrolled,https://247sports.com/Player/farell-gnago-46142759/,"Montreal, QC",45.5031824,-73.5698065
+2025,Recruit,Wydeek Collier,Edge,6-7,215,,91.0,,4,Neumann Goretti,Philadelphia,PA,,Enrolled,https://247sports.com/Player/wydeek-collier-46143067/,"Philadelphia, PA",39.9527237,-75.1635262
+2025,Recruit,Talibi Kaba,LB,6-3,195,,90.0,,4,Hillside,Hillside,NJ,,Enrolled,https://247sports.com/Player/talibi-kaba-46145826/,"Hillside, NJ",40.701213,-74.2301459
+2025,Recruit,Michael Clayton,CB,6-1,170,,90.0,,4,Northside,Warner Robins,GA,,Enrolled,https://247sports.com/Player/michael-clayton-46147450/,"Warner Robins, GA",32.6200973,-83.606568
+2025,Recruit,RJ Johnson Jr.,Edge,6-2.5,250,,90.0,,4,Salesianum,Wilmington,DE,,Enrolled,https://247sports.com/Player/rj-johnson-jr-46141853/,"Wilmington, DE",39.7459468,-75.546589
+2025,Recruit,DJ McClary,LB,6-1,211,,89.0,,3,Henry Snyder,Jersey City,NJ,,Enrolled,https://247sports.com/Player/dj-mcclary-46127649/,"Jersey City, NJ",40.7215682,-74.047455
+2025,Recruit,Tariq Hayer,S,6-1,190,,89.0,,3,St. John's College,Washington,DC,,Enrolled,https://247sports.com/Player/tariq-hayer-46133037/,"Washington, DC",38.8950982,-77.0363849
+2025,Recruit,N-Kye Wynn,IOL,6-5,277,,89.0,,3,Muskegon,Muskegon,MI,,Enrolled,https://247sports.com/Player/n-kye-wynn-46143594/,"Muskegon, MI",43.2341813,-86.2483921
+2025,Recruit,Kamar Archie,LB,6-1,225,,89.0,,3,Hun School,Princeton,NJ,,Enrolled,https://247sports.com/Player/kamar-archie-46114540/,"Princeton, NJ",40.3496953,-74.6597376
+2025,Recruit,Braxton Kyle,DL,6-4,320,,89.0,,3,North Gwinnett,Suwanee,GA,,Enrolled,https://247sports.com/Player/braxton-kyle-46147119/,"Suwanee, GA",34.0514898,-84.0712997
+2025,Recruit,Chris Vigna,IOL,6-5,295,,89.0,,3,Bergen Catholic,Oradell,NJ,,Enrolled,https://247sports.com/Player/chris-vigna-46144354/,"Oradell, NJ",40.9543943,-74.0308504
+2025,Recruit,Jourdin Houston,WR,6-1,190,,89.0,,3,St. Thomas More,Oakdale,CT,,Enrolled,https://247sports.com/Player/jourdin-houston-46132162/,"Oakdale, CT",41.4661017,-72.1578511
+2025,Recruit,Terrell Mitchell,RB,5-9,190,,88.0,,3,Somerville,Somerville,NJ,,Enrolled,https://247sports.com/Player/terrell-mitchell-46144651/,"Somerville, NJ",40.5742696,-74.60988
+2025,Recruit,Michael Thomas III,WR,5-11,200,,88.0,,3,Donovan Catholic,Toms River,NJ,,Enrolled,https://247sports.com/Player/michael-thomas-iii-46133272/,"Toms River, NJ",39.9528389,-74.196741
+2025,Recruit,Ja'Elyne Matthews,OT,6-5,305,,88.0,,3,Toms River North,Toms River,NJ,,Enrolled,https://247sports.com/Player/jaelyne-matthews-46128226/,"Toms River, NJ",39.9528389,-74.196741
+2025,Recruit,Isaiah Deloatch,LB,6-1,210,,88.0,,3,Hillside,Durham,NC,,Enrolled,https://247sports.com/Player/isaiah-deloatch-46142534/,"Durham, NC",35.996653,-78.9018053
+2025,Recruit,Joshua Blackston,OT,6-4,275,,88.0,,3,Dunbar,Baltimore,MD,,Enrolled,https://247sports.com/Player/joshua-blackston-46145505/,"Baltimore, MD",39.2908816,-76.610759
+2025,Recruit,Jayden Elijah,OT,6-7,265,,88.0,,3,Matawan Regional,Matawan,NJ,,Enrolled,https://247sports.com/Player/jayden-elijah-46136094/,"Matawan, NJ",40.41483,-74.2295891
+2025,Recruit,Miron Gurman,DL,6-6,255,,87.0,,3,Spencerport,Spencerport,NY,,Enrolled,https://247sports.com/Player/miron-gurman-46149797/,"Spencerport, NY",43.18645,-77.803897
+2025,Recruit,Vernon Allen III,WR,6-3,185,,87.0,,3,Perry Hall,Nottingham,MD,,Enrolled,https://247sports.com/Player/vernon-allen-iii-46138909/,"Nottingham, MD",39.3639964,-76.4521842
+2025,Recruit,Renick Dorilas,CB,5-11,150,,87.0,,3,Don Bosco Prep,Ramsey,NJ,,Enrolled,https://247sports.com/Player/renick-dorilas-46132515/,"Ramsey, NJ",41.0573188,-74.1409771
+2025,Recruit,Raedyn Bruens,Edge,6-4,241,,87.0,,3,Mosley,Lynn Haven,FL,,Enrolled,https://247sports.com/Player/raedyn-bruens-46141279/,"Lynn Haven, FL",30.2454776,-85.648261
+2025,Recruit,Canaan Edwards,Edge,6-5,230,,87.0,,3,Langston Hughes,Fairburn,GA,,Enrolled,https://247sports.com/Player/canaan-edwards-46148639/,"Fairburn, GA",33.5670562,-84.5810418
+2025,Recruit,Steven Murray,CB,6-1,160,,86.0,,3,Eastern Guilford,Gibsonville,NC,,Enrolled,https://247sports.com/Player/steven-murray-46142858/,"Gibsonville, NC",36.105691,-79.5422462
+2025,Recruit,Jyon Simon,DL,6-1.5,260,,86.0,,3,Raines,Jacksonville,FL,,Enrolled,https://247sports.com/Player/jyon-simon-46142911/,"Jacksonville, FL",30.3262247,-81.6579179
+2025,Recruit,Sah'nye Degraffenreidt,WR,6-0,185,,86.0,,3,Atlantic City,Atlantic City,NJ,,Enrolled,https://247sports.com/Player/sahnye-degraffenreidt-46138699/,"Atlantic City, NJ",39.3642852,-74.4229351
+2025,Recruit,Ben Rothhaar,TE,6-5,210,,86.0,,3,Norwalk,Norwalk,OH,,Enrolled,https://247sports.com/Player/ben-rothhaar-46150991/,"Norwalk, OH",41.2424219,-82.6155745
+2025,Recruit,John Insinga,LB,6-2,230,,86.0,,3,Hun School,Princeton,NJ,,Enrolled,https://247sports.com/Player/john-insinga-46153843/,"Princeton, NJ",40.3496953,-74.6597376
+2025,Recruit,Sean Ashenfelder,QB,6-1.5,195,,85.0,,3,Creekside,St. Johns,FL,,Enrolled,https://247sports.com/Player/sean-ashenfelder-46133536/,"St. Johns, FL",29.9032284,-81.4145468
+2025,Recruit,Latrell Noel,CB,6-3,195,,85.0,,3,First Baptist Academy,Naples,FL,,Enrolled,https://247sports.com/Player/latrell-noel-46157948/,"Naples, FL",26.1421976,-81.7942944
+2025,Recruit,Cannon Marshall,CB,6-1.5,165,,,,0,Rolesville,Rolesville,NC,,Enrolled,https://247sports.com/Player/cannon-marshall-46159807/,"Rolesville, NC",35.9232862,-78.4573914
+2026,Recruit,Dyzier Carter,WR,5-11.5,175,,90.0,,4,Louisa County,Mineral,VA,,Enrolled,https://247sports.com/Player/dyzier-carter-46139693/,"Mineral, VA",38.0098412,-77.9076627
+2026,Recruit,Rinaldo Callaway III,Edge,6-5,205,,90.0,,4,Southwest,Macon,GA,,Enrolled,https://247sports.com/Player/rinaldo-callaway-iii-46156078/,"Macon, GA",32.8406946,-83.6324022
+2026,Recruit,Messiah Tilson,S,6-2,165,,90.0,,4,Guilford,Rockford,IL,,Enrolled,https://247sports.com/Player/messiah-tilson-46152413/,"Rockford, IL",42.2713945,-89.093966
+2026,Recruit,Devonte Anderson,CB,6-1,185,,90.0,,4,West Orange,Winter Garden,FL,,Enrolled,https://247sports.com/Player/devonte-anderson-46150249/,"Winter Garden, FL",28.5656649,-81.5856742
+2026,Recruit,Jamareis Conyers,CB,6-1.5,173,,89.0,,3,Sumner,Riverview,FL,,Enrolled,https://247sports.com/Player/jamareis-conyers-46153818/,"Riverview, FL",27.871197,-82.3269883
+2026,Recruit,Reece Beck,DL,6-5,250,,89.0,,3,Ponte Vedra,Ponte Vedra Beach,FL,,Enrolled,https://247sports.com/Player/reece-beck-46158851/,"Ponte Vedra Beach, FL",30.2396865,-81.3856384
+2026,Recruit,Jared Smith,IOL,6-5,335,,89.0,,3,Stockbridge,Stockbridge,GA,,Enrolled,https://247sports.com/Player/jared-smith-46151044/,"Stockbridge, GA",33.5442781,-84.2338093
+2026,Recruit,Brandon Murray,CB,6-1,180,,89.0,,3,Battlefield,Haymarket,VA,,Enrolled,https://247sports.com/Player/brandon-murray-46156706/,"Haymarket, VA",38.8121398,-77.6368038
+2026,Recruit,Logan Anthony,IOL,6-4,315,,89.0,,3,Palmerton,Palmerton,PA,,Enrolled,https://247sports.com/Player/logan-anthony-46151127/,"Palmerton, PA",40.8014826,-75.6101868
+2026,Recruit,Elias Coke,WR,6-2,195,,88.0,,3,Harrisburg,Harrisburg,PA,,Enrolled,https://247sports.com/Player/elias-coke-46137871/,"Harrisburg, PA",40.2663107,-76.8861122
+2026,Recruit,Xavier Stearn,QB,6-6,215,,87.0,,3,Germantown Academy,Fort Washington,PA,,Enrolled,https://247sports.com/Player/xavier-stearn-46146796/,"Fort Washington, PA",40.1478532,-75.1897243
+2026,Recruit,Tyler Duell,OT,6-5.5,265,,87.0,,3,West Chester East,West Chester,PA,,Enrolled,https://247sports.com/Player/tyler-duell-46149954/,"West Chester, PA",39.9597389,-75.6044609
+2026,Recruit,DJ Howerton,TE,6-4,220,,87.0,,3,Grimsley,Greensboro,NC,,Enrolled,https://247sports.com/Player/dj-howerton-46149287/,"Greensboro, NC",36.0726355,-79.7919754
+2026,Recruit,Cameron Greene,OT,6-7,315,,87.0,,3,St. Augustine Prep,Richland,NJ,,Enrolled,https://247sports.com/Player/cameron-greene-46152467/,"Richland, NJ",39.495841,-74.8900885
+2026,Recruit,Michael Dukes III,RB,6-1,195,,87.0,,3,Martin Luther King,Detroit,MI,,Enrolled,https://247sports.com/Player/michael-dukes-iii-46147944/,"Detroit, MI",42.3315509,-83.0466403
+2026,Recruit,Donovan Johnson,IOL,6-4,325,,87.0,,3,Pine Forest,Fayetteville,NC,,Enrolled,https://247sports.com/Player/donovan-johnson-46153260/,"Fayetteville, NC",35.0525759,-78.878292
+2026,Recruit,Sebastian Cruz,S,5-10.5,180,,86.0,,3,Fleming Island,Orange Park,FL,,Enrolled,https://247sports.com/Player/sebastian-cruz-46156534/,"Orange Park, FL",30.1654707,-81.7016346
+2026,Recruit,Jermaine Polk,DL,6-4,265,,86.0,,3,St. Francis de Sales,Toledo,OH,,Enrolled,https://247sports.com/Player/jermaine-polk-46154581/,"Toledo, OH",41.6529143,-83.5378173
+2026,Recruit,Joey Kopec,LB,6-2,200,,86.0,,3,Cuyahoga Valley Christian Academy,Cuyahoga Falls,OH,,Enrolled,https://247sports.com/Player/joey-kopec-46149981/,"Cuyahoga Falls, OH",41.1362729,-81.4828123
+2026,Recruit,Brady Owens,TE,6-5,225,,86.0,,3,Yorktown,Arlington,VA,,Enrolled,https://247sports.com/Player/brady-owens-46152094/,"Arlington, VA",38.8769326,-77.0893094
+2026,Recruit,RJ Wortman,S,6-3,210,,85.0,,3,Colonia,Colonia,NJ,,Enrolled,https://247sports.com/Player/rj-wortman-46161545/,"Colonia, NJ",40.5917149,-74.3142458
+2026,Recruit,Tanner Raymond,LB,6-3,220,,87.0,,3,Choate Rosemary Hall,Wallingford,CT,,Signed,https://247sports.com/Player/tanner-raymond-46159618/,"Wallingford, CT",41.4564233,-72.8239356
+2026,Recruit,Ian Asaeli Ngaue-Stephenson,IOL,6-3,310,,85.0,,3,Mesa,Mesa,AZ,,Signed,https://247sports.com/Player/ian-asaeli-ngaue-stephenson-46164713/,"Mesa, AZ",33.4151005,-111.831455
+2027,Recruit,Jamar Taylor,WR,6-4.5,205,,89.0,,3,Salesianum,Wilmington,DE,,Commit 5/13/2026,https://247sports.com/Player/jamar-taylor-46157712/,"Wilmington, DE",39.7459468,-75.546589
+2027,Recruit,Arnold Mugerwa,WR,6-3,200,,89.0,,3,Richland,Johnstown,PA,,Commit 6/4/2026,https://247sports.com/Player/arnold-mugerwa-46159828/,"Johnstown, PA",40.3267407,-78.9219698
+2027,Recruit,Dennis Glenn Jr.,DL,6-1,285,,89.0,,3,Boiling Springs,Boiling Springs,SC,,Commit 6/7/2026,https://247sports.com/Player/dennis-glenn-jr-46155193/,"Boiling Springs, SC",35.04136,-81.9788202
+2027,Recruit,Isaiah Alvarez,WR,6-0,160,,88.0,,3,Don Bosco Prep,Ramsey,NJ,,Commit 6/13/2026,https://247sports.com/Player/isaiah-alvarez-46153227/,"Ramsey, NJ",41.0573188,-74.1409771
+2027,Recruit,James Cocozzo,IOL,6-3,292,,88.0,,3,Stillwater,Stillwater,NY,,Commit 4/4/2026,https://247sports.com/Player/james-cocozzo-46161116/,"Stillwater, NY",42.9384101,-73.6531731
+2027,Recruit,Josiah Sturdivant,Edge,6-3,225,,88.0,,3,Wake Forest,Wake Forest,NC,,Commit 5/30/2026,https://247sports.com/Player/josiah-sturdivant-46165810/,"Wake Forest, NC",35.9803138,-78.5103731
+2027,Recruit,Sydney Padilla,TE,6-4,218,,87.0,,3,West Orange,West Orange,NJ,,Commit 1/23/2026,https://247sports.com/Player/sydney-padilla-46151032/,"West Orange, NJ",40.7987113,-74.2390353
+2027,Recruit,Dallas Ward,DL,6-2.5,250,,87.0,,3,McIntosh,Peachtree City,GA,,Commit 6/16/2026,https://247sports.com/Player/dallas-ward-46158339/,"Peachtree City, GA",33.3975472,-84.5898256
+2027,Recruit,Dextavion Reese,S,6-4,185,,87.0,,3,Hephzibah,Hephzibah,GA,,Commit 6/6/2026,https://247sports.com/Player/dextavion-reese-46165510/,"Hephzibah, GA",33.3140311,-82.0967857
+2027,Recruit,Trent Buttles,S,5-11.5,185,,87.0,,3,St. Francis,Hamburg,NY,,Commit 4/10/2026,https://247sports.com/Player/trent-buttles-46161176/,"Hamburg, NY",42.716293,-78.828717
+2027,Recruit,Trenton Lynch,RB,5-9,185,,86.0,,3,Spartanburg,Spartanburg,SC,,Commit 5/1/2026,https://247sports.com/Player/trenton-lynch-46155054/,"Spartanburg, SC",34.9498007,-81.9320157
+2027,Recruit,Zion Watson,S,6-2,170,,86.0,,3,Northside Christian,St. Petersburg,FL,,Commit 5/30/2026,https://247sports.com/Player/zion-watson-46166756/,"St. Petersburg, FL",27.7712264,-82.6340259
+2027,Recruit,Moses Poku-Kankam,S,6-2,200,,86.0,,3,Providence Day School,Charlotte,NC,,Commit 4/28/2026,https://247sports.com/Player/moses-poku-kankam-46158388/,"Charlotte, NC",35.2272086,-80.8430827
+2027,Recruit,Charles Butler,IOL,6-6,330,,86.0,,3,Bishop Canevin,Pittsburgh,PA,,Commit 5/30/2026,https://247sports.com/Player/charles-butler-46159653/,"Pittsburgh, PA",40.4406968,-80.0025666
+2027,Recruit,Jackson Albright,IOL,6-5,315,,86.0,,3,Warrior Run,Turbotville,PA,,Commit 5/31/2026,https://247sports.com/Player/jackson-albright-46166849/,"Turbotville, PA",41.1020285,-76.7710716
+2027,Recruit,Zion Vilma,ATH,6-1,180,,86.0,,3,Dr. Joaquin Garcia,Lake Worth,FL,,Commit 5/31/2026,https://247sports.com/Player/zion-vilma-46160423/,"Lake Worth, FL",26.615891,-80.0691435
+2027,Recruit,Saleh Atariwa,TE,6-6,245,,86.0,,3,Cardinal Hayes,Bronx,NY,,Commit 4/11/2026,https://247sports.com/Player/saleh-atariwa-46164509/,"Bronx, NY",40.8466508,-73.8785937
+2027,Recruit,Alijah Jones,IOL,6-3.5,285,,85.0,,3,James Monroe,Rochester,NY,,Commit 6/6/2026,https://247sports.com/Player/alijah-jones-46160215/,"Rochester, NY",43.157285,-77.615214
+2027,Recruit,Zane Keric,OT,6-7,300,,85.0,,3,St. John Neumann,Naples,FL,,Commit 6/7/2026,https://247sports.com/Player/zane-keric-46158416/,"Naples, FL",26.1421976,-81.7942944
+2027,Recruit,Jeremiah Joseph,DL,6-3,321,,85.0,,3,Ridge Community,Davenport,FL,,Commit 6/9/2026,https://247sports.com/Player/jeremiah-joseph-46167443/,"Davenport, FL",28.1614046,-81.6017417
+2027,Recruit,AJ Southard,OT,6-5.5,315,,84.0,,3,The St. James,Springfield,VA,,Commit 5/30/2026,https://247sports.com/Player/aj-southard-46163587/,"Springfield, VA",38.7749935,-77.1803819
