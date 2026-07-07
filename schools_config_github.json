@@ -1,0 +1,261 @@
+{
+  "Purdue": {
+    "csv_file": "school-csvs/Big 10/purdue_recruits_geocoded.csv",
+    "logo_url": "https://1000logos.net/wp-content/uploads/2024/05/Purdue-Boilermakers-Logo-1996.png",
+    "primary_color": "#CFB991",
+    "secondary_color": "#daaa00",
+    "alert_bg": "#F6F1E5",
+    "eras": [
+      [1997, 2008, "Joe Tiller (1997-2008)"],
+      [2009, 2012, "Danny Hope (2009-2012)"],
+      [2013, 2016, "Darrell Hazell (2013-2016)"],
+      [2017, 2022, "Jeff Brohm (2017-2022)"],
+      [2023, 2024, "Ryan Walters (2023-2024)"],
+      [2025, 2026, "Barry Odom (2025-Present)"]
+    ]
+  },
+  "Indiana": {
+    "csv_file": "school-csvs/Big 10/indiana_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg",
+    "primary_color": "#990000",
+    "secondary_color": "#EDEBEB",
+    "alert_bg": "#FDF4F4",
+    "eras": [
+      [1997, 2001, "Cam Cameron (1997-2001)"],
+      [2002, 2004, "Gerry DiNardo (2002-2004)"],
+      [2005, 2006, "Terry Hoeppner (2005-2006)"],
+      [2007, 2010, "Bill Lynch (2007-2010)"],
+      [2011, 2016, "Kevin Wilson (2011-2016)"],
+      [2017, 2023, "Tom Allen (2017-2023)"],
+      [2024, 2026, "Curt Cignetti (2024-Present)"]
+    ]
+  },
+  "Ohio State": {
+    "csv_file": "school-csvs/Big 10/ohio-state_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1280px-Ohio_State_Buckeyes_logo.svg.png",
+    "primary_color": "#ba0c2f",
+    "secondary_color": "#a7b1b7",
+    "alert_bg": "#FAECEC",
+    "eras": [
+      [1988, 2000, "John Cooper (1988-2000)"],
+      [2001, 2010, "Jim Tressel (2001-2010)"],
+      [2012, 2018, "Urban Meyer (2012-2018)"],
+      [2019, 2026, "Ryan Day (2019-Present)"]
+    ]
+  },
+  "Illinois": {
+    "csv_file": "school-csvs/Big 10/illinois_recruits_geocoded.csv",
+    "logo_url": "https://brand.illinois.edu/wp-content/uploads/2025/02/Illinois_logo_fullcolor_%C2%AE_rgb.png",
+    "primary_color": "#FF5F05",
+    "secondary_color": "#13294B",
+    "alert_bg": "#F4F7FA",
+    "eras": [
+      [1997, 2004, "Ron Turner (1997-2004)"],
+      [2005, 2011, "Ron Zook (2005-2011)"],
+      [2012, 2014, "Tim Beckman (2012-2014)"],
+      [2015, 2015, "Bill Cubit (2015)"],
+      [2016, 2020, "Lovie Smith (2016-2020)"],
+      [2021, 2026, "Bret Bielema (2021-Present)"]
+    ]
+  },
+  "Michigan": {
+    "csv_file": "school-csvs/Big 10/michigan_recruits_geocoded.csv",
+    "logo_url": "https://1000logos.net/wp-content/uploads/2019/09/Michigan-Wolverines-Logo.png",
+    "primary_color": "#00274C",
+    "secondary_color": "#FFCB05",
+    "alert_bg": "#F4F7FA",
+    "eras": [
+      [1995, 2007, "Lloyd Carr (1995-2007)"],
+      [2008, 2010, "Rich Rodriguez (2008-2010)"],
+      [2011, 2014, "Brady Hoke (2011-2014)"],
+      [2015, 2023, "Jim Harbaugh (2015-2023)"],
+      [2024, 2025, "Sherrone Moore (2024-2025)"],
+      [2026, 2026, "Kyle Whittingham (2026-Present)"]
+    ]
+  },
+  "Michigan State": {
+    "csv_file": "school-csvs/Big 10/michigan-state_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Michigan_State_Athletics_logo.svg",
+    "primary_color": "#18453B",
+    "secondary_color": "#FFFFFF",
+    "alert_bg": "#F3F6F5",
+    "eras": [
+      [1995, 1999, "Nick Saban (1995-1999)"],
+      [2000, 2002, "Bobby Williams (2000-2002)"],
+      [2003, 2006, "John L. Smith (2003-2006)"],
+      [2007, 2019, "Mark Dantonio (2007-2019)"],
+      [2020, 2023, "Mel Tucker (2020-2023)"],
+      [2024, 2025, "Jonathan Smith (2024-2025)"],
+      [2026, 2026, "Pat Fitzgerald (2026-Present)"]
+    ]
+  },
+  "Penn State": {
+    "csv_file": "school-csvs/Big 10/penn-state_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1280px-Penn_State_Nittany_Lions_logo.svg.png",
+    "primary_color": "#001C4C",
+    "secondary_color": "#FFFFFF",
+    "alert_bg": "#F4F6F9",
+    "eras": [
+      [1966, 2011, "Joe Paterno (1966-2011)"],
+      [2012, 2013, "Bill O'Brien (2012-2013)"],
+      [2014, 2025, "James Franklin (2014-2025)"],
+      [2026, 2026, "Matt Campbell (2026-Present)"]
+    ]
+  },
+  "Maryland": {
+    "csv_file": "school-csvs/Big 10/maryland_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg",
+    "primary_color": "#E01933",
+    "secondary_color": "#FFD520",
+    "alert_bg": "#FAF4F5",
+    "eras": [
+      [1997, 2000, "Ron Vanderlinden (1997-2000)"],
+      [2001, 2010, "Ralph Friedgen (2001-2010)"],
+      [2011, 2015, "Randy Edsall (2011-2015)"],
+      [2016, 2018, "DJ Durkin (2016-2018)"],
+      [2019, 2026, "Mike Locksley (2019-Present)"]
+    ]
+  },
+  "USC": {
+    "csv_file": "school-csvs/Big 10/usc_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg",
+    "primary_color": "#990000",
+    "secondary_color": "#FFC72C",
+    "alert_bg": "#FAF5E6",
+    "eras": [
+      [1998, 2000, "Paul Hackett (1998-2000)"],
+      [2001, 2009, "Pete Carroll (2001-2009)"],
+      [2010, 2013, "Lane Kiffin (2010-2013)"],
+      [2014, 2015, "Steve Sarkisian (2014-2015)"],
+      [2016, 2021, "Clay Helton (2016-2021)"],
+      [2022, 2026, "Lincoln Riley (2022-Present)"]
+    ]
+  },
+  "UCLA": {
+    "csv_file": "school-csvs/Big 10/ucla_recruits_geocoded.csv",
+    "logo_url": "https://cdn.freebiesupply.com/logos/large/2x/ucla-bruins-1-logo-png-transparent.png",
+    "primary_color": "#2D68C4",
+    "secondary_color": "#F2A900",
+    "alert_bg": "#F5F8FC",
+    "eras": [
+      [1996, 2002, "Bob Toledo (1996-2002)"],
+      [2003, 2007, "Karl Dorrell (2003-2007)"],
+      [2008, 2011, "Rick Neuheisel (2008-2011)"],
+      [2012, 2017, "Jim L. Mora (2012-2017)"],
+      [2018, 2023, "Chip Kelly (2018-2023)"],
+      [2024, 2025, "DeShaun Foster (2024-2025)"],
+      [2026, 2026, "Bob Chesney (2026-Present)"]
+    ]
+  },
+  "Washington": {
+    "csv_file": "school-csvs/Big 10/washington_recruits_geocoded.csv",
+    "logo_url": "https://1000logos.net/wp-content/uploads/2020/01/Washington-Huskies-Logo-2001.png",
+    "primary_color": "#4B2E83",
+    "secondary_color": "#E8D3A2",
+    "alert_bg": "#F6F4F9",
+    "eras": [
+      [1999, 2002, "Rick Neuheisel (1999-2002)"],
+      [2003, 2004, "Keith Gilbertson (2003-2004)"],
+      [2005, 2008, "Tyrone Willingham (2005-2008)"],
+      [2009, 2013, "Steve Sarkisian (2009-2013)"],
+      [2014, 2019, "Chris Petersen (2014-2019)"],
+      [2020, 2021, "Jimmy Lake (2020-2021)"],
+      [2022, 2023, "Kalen DeBoer (2022-2023)"],
+      [2024, 2026, "Jedd Fisch (2024-Present)"]
+    ]
+  },
+  "Oregon": {
+    "csv_file": "school-csvs/Big 10/oregon_recruits_geocoded.csv",
+    "logo_url": "https://cdn.freebiesupply.com/logos/large/2x/oregon-ducks-8-logo-png-transparent.png",
+    "primary_color": "#124734",
+    "secondary_color": "#FEE123",
+    "alert_bg": "#F3F7F5",
+    "eras": [
+      [1995, 2008, "Mike Bellotti (1995-2008)"],
+      [2009, 2012, "Chip Kelly (2009-2012)"],
+      [2013, 2016, "Mark Helfrich (2013-2016)"],
+      [2017, 2017, "Willie Taggart (2017)"],
+      [2018, 2021, "Mario Cristobal (2018-2021)"],
+      [2022, 2026, "Dan Lanning (2022-Present)"]
+    ]
+  },
+  "Iowa": {
+    "csv_file": "school-csvs/Big 10/iowa_recruits_geocoded.csv",
+    "logo_url": "https://images.seeklogo.com/logo-png/44/2/iowa-hawkeyes-logo-png_seeklogo-449362.png",
+    "primary_color": "#FFCD00",
+    "secondary_color": "#000000",
+    "alert_bg": "#FDFBF2",
+    "eras": [
+      [1999, 2026, "Kirk Ferentz (1999-Present)"]
+    ]
+  },
+  "Rutgers": {
+    "csv_file": "school-csvs/Big 10/rutgers_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rutgers_Scarlet_Knights_logo.svg",
+    "primary_color": "#CC0033",
+    "secondary_color": "#FFFFFF",
+    "alert_bg": "#FAF2F4",
+    "eras": [
+      [1996, 2000, "Terry Shea (1996-2000)"],
+      [2001, 2011, "Greg Schiano (2001-2011)"],
+      [2012, 2015, "Kyle Flood (2012-2015)"],
+      [2016, 2019, "Chris Ash (2016-2019)"],
+      [2020, 2026, "Greg Schiano (2020-Present)"]
+    ]
+  },
+  "Minnesota": {
+    "csv_file": "school-csvs/Big 10/minnesota_recruits_geocoded.csv",
+    "logo_url": "https://1000logos.net/wp-content/uploads/2022/07/University-of-Minnesota-Emblem.png",
+    "primary_color": "#7A0019",
+    "secondary_color": "#FFCC33",
+    "alert_bg": "#FBF3F4",
+    "eras": [
+      [1997, 2006, "Glen Mason (1997-2006)"],
+      [2007, 2010, "Tim Brewster (2007-2010)"],
+      [2011, 2015, "Jerry Kill (2011-2015)"],
+      [2016, 2016, "Tracy Claeys (2016)"],
+      [2017, 2026, "P. J. Fleck (2017-Present)"]
+    ]
+  },
+  "Northwestern": {
+    "csv_file": "school-csvs/Big 10/northwestern_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Northwestern_Wildcats_logo.svg",
+    "primary_color": "#4E2A84",
+    "secondary_color": "#FFFFFF",
+    "alert_bg": "#F5F3F8",
+    "eras": [
+      [1999, 2005, "Randy Walker (1999-2005)"],
+      [2006, 2022, "Pat Fitzgerald (2006-2022)"],
+      [2023, 2026, "David Braun (2023-Present)"]
+    ]
+  },
+  "Nebraska": {
+    "csv_file": "school-csvs/Big 10/nebraska_recruits_geocoded.csv",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nebraska_Cornhuskers_logo.svg",
+    "primary_color": "#E31937",
+    "secondary_color": "#FFFFFF",
+    "alert_bg": "#FAF3F4",
+    "eras": [
+      [1998, 2003, "Frank Solich (1998-2003)"],
+      [2004, 2007, "Bill Callahan (2004-2007)"],
+      [2008, 2014, "Bo Pelini (2008-2014)"],
+      [2015, 2017, "Mike Riley (2015-2017)"],
+      [2018, 2022, "Scott Frost (2018-2022)"],
+      [2023, 2026, "Matt Rhule (2023-Present)"]
+    ]
+  },
+  "Wisconsin": {
+    "csv_file": "school-csvs/Big 10/wisconsin_recruits_geocoded.csv",
+    "logo_url": "https://1000logos.net/wp-content/uploads/2021/07/Wisconsin-Badgers-logo.png",
+    "primary_color": "#C5050C",
+    "secondary_color": "#FFFFFF",
+    "alert_bg": "#FAF2F3",
+    "eras": [
+      [1990, 2005, "Barry Alvarez (1990-2005)"],
+      [2006, 2012, "Bret Bielema (2006-2012)"],
+      [2013, 2014, "Gary Andersen (2013-2014)"],
+      [2015, 2022, "Paul Chryst (2015-2022)"],
+      [2023, 2026, "Luke Fickell (2023-Present)"]
+    ]
+  }
+}
